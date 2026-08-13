@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:23:39Z",
+            "last_commit": "2026-08-13T06:59:48Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77842
+            "stars": 77844
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-05T13:13:45Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80020
+            "stars": 80021
           }
         },
         {
@@ -121,7 +121,7 @@
             "last_commit": "2026-08-12T21:36:06Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29683
+            "stars": 29685
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:07.823Z",
+    "last_updated": "2026-08-13T07:07:30.591Z",
     "original_repository": "diegoleme/awesome-open-source-alternatives",
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
     "enhanced_repository": "enhansome/enhansome-open-source-alternatives",
