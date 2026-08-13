@@ -1,0 +1,399 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elastic Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:23:39Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T14:04:16Z",
+            "owner": "valeriansaliou",
+            "repo": "sonic",
+            "stars": 21310
+          }
+        }
+      ],
+      "title": "Algolia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nexus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T22:16:26Z",
+            "owner": "sonatype",
+            "repo": "nexus-public",
+            "stars": 2616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ied",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-10T06:30:18Z",
+            "owner": "alexanderGugel",
+            "repo": "ied",
+            "stars": 1990
+          }
+        }
+      ],
+      "title": "Npm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Postwoman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voiden",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:59:41Z",
+            "owner": "VoidenHQ",
+            "repo": "voiden",
+            "stars": 1474
+          }
+        }
+      ],
+      "title": "Postman"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:36:06Z",
+            "owner": "ankitects",
+            "repo": "anki",
+            "stars": 29683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-12T18:00:32Z",
+            "owner": "JuliusBrussee",
+            "repo": "revu-swift",
+            "stars": 362
+          }
+        }
+      ],
+      "title": "Quizlet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IDURAR ERP CRM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T12:32:31Z",
+            "owner": "idurar",
+            "repo": "idurar-erp-crm",
+            "stars": 8651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuiteCRM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:37:50Z",
+            "owner": "SuiteCRM",
+            "repo": "SuiteCRM",
+            "stars": 5650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Customermates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:08:24Z",
+            "owner": "customermates",
+            "repo": "customermates",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Salesforce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Riot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:18:15Z",
+            "owner": "element-hq",
+            "repo": "element-web",
+            "stars": 13370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mezon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:33:41Z",
+            "owner": "mezonai",
+            "repo": "mezon",
+            "stars": 1518
+          }
+        }
+      ],
+      "title": "Slack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MeshCentral",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T17:43:42Z",
+            "owner": "Ylianst",
+            "repo": "MeshCentral",
+            "stars": 7046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remotely",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-17T15:12:02Z",
+            "owner": "immense",
+            "repo": "Remotely",
+            "stars": 5071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Guacamole",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T01:25:32Z",
+            "owner": "apache",
+            "repo": "guacamole-server",
+            "stars": 3941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myrtille",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-07T10:01:49Z",
+            "owner": "myrtille-rdp",
+            "repo": "myrtille",
+            "stars": 1978
+          }
+        }
+      ],
+      "title": "TeamViewer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Peertube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:43:45Z",
+            "owner": "Chocobozzz",
+            "repo": "PeerTube",
+            "stars": 15258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeTube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-24T11:03:09Z",
+            "owner": "mayeaux",
+            "repo": "nodetube",
+            "stars": 2363
+          }
+        }
+      ],
+      "title": "Youtube"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuiteCRM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:37:50Z",
+            "owner": "SuiteCRM",
+            "repo": "SuiteCRM",
+            "stars": 5650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Handesk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-12T14:02:25Z",
+            "owner": "BadChoice",
+            "repo": "handesk",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faveo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-28T04:24:21Z",
+            "owner": "faveosuite",
+            "repo": "faveo-helpdesk",
+            "stars": 1249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiamanteDesk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-10T14:29:56Z",
+            "owner": "eltrino",
+            "repo": "diamantedesk-application",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTRS",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Zendesk"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:07.823Z",
+    "original_repository": "diegoleme/awesome-open-source-alternatives",
+    "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
+    "enhanced_repository": "enhansome/enhansome-open-source-alternatives",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open-source Alternatives with stars"
+  }
+}
