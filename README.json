@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T05:49:58Z",
+            "last_commit": "2026-08-17T06:18:31Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77833
+            "stars": 77832
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T23:38:55Z",
+            "last_commit": "2026-08-16T15:04:04Z",
             "owner": "valeriansaliou",
             "repo": "sonic",
             "stars": 21313
@@ -84,10 +84,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T13:13:45Z",
+            "last_commit": "2026-08-16T19:17:55Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80041
+            "stars": 80046
           }
         },
         {
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T13:59:41Z",
+            "last_commit": "2026-08-17T05:03:52Z",
             "owner": "VoidenHQ",
             "repo": "voiden",
-            "stars": 1480
+            "stars": 1484
           }
         }
       ],
@@ -121,7 +121,7 @@
             "last_commit": "2026-08-14T21:15:07Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29804
+            "stars": 29828
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-04-12T18:00:32Z",
             "owner": "JuliusBrussee",
             "repo": "revu-swift",
-            "stars": 362
+            "stars": 363
           }
         }
       ],
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8667
+            "stars": 8669
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-07-31T13:37:50Z",
             "owner": "SuiteCRM",
             "repo": "SuiteCRM",
-            "stars": 5663
+            "stars": 5665
           }
         },
         {
@@ -180,7 +180,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:00:52Z",
+            "last_commit": "2026-08-17T06:07:53Z",
             "owner": "customermates",
             "repo": "customermates",
             "stars": 241
@@ -200,7 +200,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:42:02Z",
+            "last_commit": "2026-08-17T06:18:35Z",
             "owner": "element-hq",
             "repo": "element-web",
             "stars": 13382
@@ -214,7 +214,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:41:58Z",
+            "last_commit": "2026-08-17T05:01:44Z",
             "owner": "mezonai",
             "repo": "mezon",
             "stars": 1518
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-12T17:43:42Z",
             "owner": "Ylianst",
             "repo": "MeshCentral",
-            "stars": 7059
+            "stars": 7062
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2024-12-17T15:12:02Z",
             "owner": "immense",
             "repo": "Remotely",
-            "stars": 5069
+            "stars": 5070
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-07-31T13:37:50Z",
             "owner": "SuiteCRM",
             "repo": "SuiteCRM",
-            "stars": 5663
+            "stars": 5665
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:18:50.762Z",
+    "last_updated": "2026-08-17T06:27:40.313Z",
     "original_repository": "diegoleme/awesome-open-source-alternatives",
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
     "enhanced_repository": "enhansome/enhansome-open-source-alternatives",
