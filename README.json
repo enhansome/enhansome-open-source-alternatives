@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-20T06:15:42Z",
+                "last_commit": "2026-08-21T06:15:21Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77846
+                "stars": 77853
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-17T20:42:30Z",
                 "owner": "sonatype",
                 "repo": "nexus-public",
-                "stars": 2622
+                "stars": 2621
               }
             },
             {
@@ -88,10 +88,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T02:12:08Z",
+                "last_commit": "2026-08-20T16:38:46Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80057
+                "stars": 80068
               }
             },
             {
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 980905149,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T05:10:48Z",
+                "last_commit": "2026-08-21T05:17:23Z",
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1503
+                "stars": 1511
               }
             }
           ],
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 7270538,
                 "language": "Rust",
-                "last_commit": "2026-08-20T05:13:11Z",
+                "last_commit": "2026-08-20T20:16:46Z",
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 29916
+                "stars": 29937
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-07-31T13:37:50Z",
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5675
+                "stars": 5680
               }
             },
             {
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T06:21:15Z",
+                "last_commit": "2026-08-20T13:53:30Z",
                 "owner": "customermates",
                 "repo": "customermates",
-                "stars": 240
+                "stars": 239
               }
             }
           ],
@@ -214,10 +214,10 @@
                 "archived": false,
                 "id": 39487546,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T22:45:10Z",
+                "last_commit": "2026-08-21T06:16:02Z",
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13391
+                "stars": 13394
               }
             },
             {
@@ -229,10 +229,10 @@
                 "archived": false,
                 "id": 738929635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T06:22:10Z",
+                "last_commit": "2026-08-21T05:30:20Z",
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1563
+                "stars": 1570
               }
             }
           ],
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-12T17:43:42Z",
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7078
+                "stars": 7086
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2024-12-17T15:12:02Z",
                 "owner": "immense",
                 "repo": "Remotely",
-                "stars": 5074
+                "stars": 5073
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-08-07T01:25:32Z",
                 "owner": "apache",
                 "repo": "guacamole-server",
-                "stars": 3953
+                "stars": 3955
               }
             },
             {
@@ -318,10 +318,10 @@
                 "archived": false,
                 "id": 45213667,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:29:04Z",
+                "last_commit": "2026-08-20T15:25:40Z",
                 "owner": "Chocobozzz",
                 "repo": "PeerTube",
-                "stars": 15269
+                "stars": 15272
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2023-01-24T11:03:09Z",
                 "owner": "mayeaux",
                 "repo": "nodetube",
-                "stars": 2362
+                "stars": 2364
               }
             }
           ],
@@ -358,7 +358,7 @@
                 "last_commit": "2026-07-31T13:37:50Z",
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5675
+                "stars": 5680
               }
             },
             {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:23:02.010Z",
+    "last_updated": "2026-08-21T06:22:54.755Z",
     "original_repository": "diegoleme/awesome-open-source-alternatives",
     "original_repository_id": 255983676,
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
