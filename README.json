@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-24T06:23:30Z",
+                "last_commit": "2026-08-24T14:20:13Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77856
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 172714919,
                 "language": "Rust",
-                "last_commit": "2026-08-16T15:04:04Z",
+                "last_commit": "2026-08-24T14:15:42Z",
                 "owner": "valeriansaliou",
                 "repo": "sonic",
                 "stars": 21317
@@ -39,6 +39,292 @@
           "description": null,
           "node_type": "group",
           "title": "Algolia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftStack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790019,
+                "language": "Python",
+                "last_commit": "2026-08-23T05:43:31Z",
+                "owner": "openstack",
+                "repo": "swift",
+                "stars": 2793
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Amazon S3"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Authgear",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272601623,
+                "language": "Go",
+                "last_commit": "2026-08-24T04:15:28Z",
+                "owner": "authgear",
+                "repo": "authgear-server",
+                "stars": 1997
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Auth0"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Overloop CLI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186301126,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T07:23:45Z",
+                "owner": "sortlist",
+                "repo": "overloop-cli",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apollo.io / Outreach"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Signals CLI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184108618,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T09:44:04Z",
+                "owner": "sortlist",
+                "repo": "max-cli",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bombora / 6sense"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Astuto",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 203002681,
+                "language": "TypeScript",
+                "last_commit": "2026-01-09T17:46:45Z",
+                "owner": "astuto",
+                "repo": "astuto",
+                "stars": 2349
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Canny"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vesta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1890900,
+                "language": "PHP",
+                "last_commit": "2026-08-09T08:14:41Z",
+                "owner": "outroll",
+                "repo": "vesta",
+                "stars": 3077
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "cPanel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Isso",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6268419,
+                "language": "Python",
+                "last_commit": "2026-08-21T22:25:10Z",
+                "owner": "isso-comments",
+                "repo": "isso",
+                "stars": 5304
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Disqus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenNote",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13704831,
+                "language": "JavaScript",
+                "last_commit": "2023-02-27T20:56:07Z",
+                "owner": "JLiscom",
+                "repo": "OpenNote",
+                "stars": 1662
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evernote"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mastodon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52281283,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T14:13:21Z",
+                "owner": "mastodon",
+                "repo": "mastodon",
+                "stars": 50245
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Facebook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ackee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18831920,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T10:30:14Z",
+                "owner": "electerious",
+                "repo": "Ackee",
+                "stars": 4692
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google Analytics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CryptPad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26022284,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:47:13Z",
+                "owner": "cryptpad",
+                "repo": "cryptpad",
+                "stars": 7858
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google Docs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ownphotos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97455875,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-07T23:36:50Z",
+                "owner": "hooram",
+                "repo": "ownphotos",
+                "stars": 2760
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google Photos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Customermates",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186103757,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:57:36Z",
+                "owner": "customermates",
+                "repo": "customermates",
+                "stars": 238
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hubspot"
         },
         {
           "children": [
@@ -54,7 +340,7 @@
                 "last_commit": "2026-08-22T05:01:38Z",
                 "owner": "sonatype",
                 "repo": "nexus-public",
-                "stars": 2623
+                "stars": 2624
               }
             },
             {
@@ -88,10 +374,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:15:18Z",
+                "last_commit": "2026-08-24T12:30:15Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80087
+                "stars": 80090
               }
             },
             {
@@ -103,10 +389,10 @@
                 "archived": false,
                 "id": 980905149,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T08:34:40Z",
+                "last_commit": "2026-08-24T12:05:39Z",
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1520
+                "stars": 1528
               }
             }
           ],
@@ -125,10 +411,10 @@
                 "archived": false,
                 "id": 7270538,
                 "language": "Rust",
-                "last_commit": "2026-08-22T07:26:34Z",
+                "last_commit": "2026-08-24T14:23:43Z",
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 29997
+                "stars": 30009
               }
             },
             {
@@ -143,7 +429,7 @@
                 "last_commit": "2026-04-12T18:00:32Z",
                 "owner": "JuliusBrussee",
                 "repo": "revu-swift",
-                "stars": 364
+                "stars": 365
               }
             }
           ],
@@ -165,7 +451,7 @@
                 "last_commit": "2026-08-14T23:02:15Z",
                 "owner": "idurar",
                 "repo": "idurar-erp-crm",
-                "stars": 8706
+                "stars": 8711
               }
             },
             {
@@ -180,7 +466,7 @@
                 "last_commit": "2026-07-31T13:37:50Z",
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5686
+                "stars": 5688
               }
             },
             {
@@ -192,7 +478,7 @@
                 "archived": false,
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:24:25Z",
+                "last_commit": "2026-08-24T13:57:36Z",
                 "owner": "customermates",
                 "repo": "customermates",
                 "stars": 238
@@ -207,6 +493,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ERPNext",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1864233,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:03:33Z",
+                "owner": "frappe",
+                "repo": "erpnext",
+                "stars": 38446
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SAP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Saleor Commerce",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8162715,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:41:36Z",
+                "owner": "saleor",
+                "repo": "saleor",
+                "stars": 23262
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shopify"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Riot",
               "description": null,
               "children": [],
@@ -214,10 +544,10 @@
                 "archived": false,
                 "id": 39487546,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:21:14Z",
+                "last_commit": "2026-08-24T13:33:59Z",
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13403
+                "stars": 13407
               }
             },
             {
@@ -229,10 +559,10 @@
                 "archived": false,
                 "id": 738929635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:42:46Z",
+                "last_commit": "2026-08-24T10:07:43Z",
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1579
+                "stars": 1580
               }
             }
           ],
@@ -269,7 +599,7 @@
                 "last_commit": "2024-12-17T15:12:02Z",
                 "owner": "immense",
                 "repo": "Remotely",
-                "stars": 5071
+                "stars": 5070
               }
             },
             {
@@ -311,6 +641,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Super Easy Forms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185697198,
+                "language": "JavaScript",
+                "last_commit": "2023-11-16T19:42:04Z",
+                "owner": "super-easy-forms",
+                "repo": "super-easy-forms",
+                "stars": 160
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typeform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Peertube",
               "description": null,
               "children": [],
@@ -318,10 +670,10 @@
                 "archived": false,
                 "id": 45213667,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:58:20Z",
+                "last_commit": "2026-08-24T14:23:08Z",
                 "owner": "Chocobozzz",
                 "repo": "PeerTube",
-                "stars": 15275
+                "stars": 15276
               }
             },
             {
@@ -358,7 +710,7 @@
                 "last_commit": "2026-07-31T13:37:50Z",
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5686
+                "stars": 5688
               }
             },
             {
@@ -416,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:31:21.863Z",
+    "last_updated": "2026-08-24T14:24:15.874Z",
     "original_repository": "diegoleme/awesome-open-source-alternatives",
     "original_repository_id": 255983676,
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
