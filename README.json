@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-25T06:14:56Z",
+                "last_commit": "2026-08-25T06:37:08Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77860
@@ -377,7 +377,7 @@
                 "last_commit": "2026-08-24T17:33:02Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80093
+                "stars": 80094
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-25T05:06:17Z",
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1537
+                "stars": 1538
               }
             }
           ],
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-24T21:11:42Z",
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 30027
+                "stars": 30028
               }
             },
             {
@@ -500,10 +500,10 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:17:40Z",
+                "last_commit": "2026-08-25T06:34:55Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38460
+                "stars": 38463
               }
             }
           ],
@@ -562,7 +562,7 @@
                 "last_commit": "2026-08-25T01:37:15Z",
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1610
+                "stars": 1612
               }
             }
           ],
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-12T17:43:42Z",
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7100
+                "stars": 7102
               }
             },
             {
@@ -768,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:16.872Z",
+    "last_updated": "2026-08-25T06:41:24.578Z",
     "original_repository": "diegoleme/awesome-open-source-alternatives",
     "original_repository_id": 255983676,
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
