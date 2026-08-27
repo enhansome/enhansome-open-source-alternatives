@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:46:14Z",
+                "last_commit": "2026-08-27T16:52:12Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77869
+                "stars": 77870
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-25T23:02:36Z",
                 "owner": "openstack",
                 "repo": "swift",
-                "stars": 2794
+                "stars": 2795
               }
             }
           ],
@@ -227,10 +227,10 @@
                 "archived": false,
                 "id": 52281283,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:46:05Z",
+                "last_commit": "2026-08-27T16:38:32Z",
                 "owner": "mastodon",
                 "repo": "mastodon",
-                "stars": 50255
+                "stars": 50257
               }
             }
           ],
@@ -271,10 +271,10 @@
                 "archived": false,
                 "id": 26022284,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:37:48Z",
+                "last_commit": "2026-08-27T13:25:39Z",
                 "owner": "cryptpad",
                 "repo": "cryptpad",
-                "stars": 7862
+                "stars": 7864
               }
             }
           ],
@@ -315,7 +315,7 @@
                 "archived": false,
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:35:10Z",
+                "last_commit": "2026-08-27T15:53:23Z",
                 "owner": "customermates",
                 "repo": "customermates",
                 "stars": 225
@@ -374,10 +374,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:29:09Z",
+                "last_commit": "2026-08-27T16:33:05Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80102
+                "stars": 80103
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-27T11:44:03Z",
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1587
+                "stars": 1588
               }
             }
           ],
@@ -411,10 +411,10 @@
                 "archived": false,
                 "id": 7270538,
                 "language": "Rust",
-                "last_commit": "2026-08-26T18:48:48Z",
+                "last_commit": "2026-08-27T16:17:41Z",
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 30071
+                "stars": 30075
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2026-04-12T18:00:32Z",
                 "owner": "JuliusBrussee",
                 "repo": "revu-swift",
-                "stars": 366
+                "stars": 365
               }
             }
           ],
@@ -451,7 +451,7 @@
                 "last_commit": "2026-08-14T23:02:15Z",
                 "owner": "idurar",
                 "repo": "idurar-erp-crm",
-                "stars": 8735
+                "stars": 8736
               }
             },
             {
@@ -478,7 +478,7 @@
                 "archived": false,
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:35:10Z",
+                "last_commit": "2026-08-27T15:53:23Z",
                 "owner": "customermates",
                 "repo": "customermates",
                 "stars": 225
@@ -500,10 +500,10 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:20:12Z",
+                "last_commit": "2026-08-27T16:42:00Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38560
+                "stars": 38569
               }
             }
           ],
@@ -522,7 +522,7 @@
                 "archived": false,
                 "id": 8162715,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:47:43Z",
+                "last_commit": "2026-08-27T13:01:45Z",
                 "owner": "saleor",
                 "repo": "saleor",
                 "stars": 23267
@@ -544,10 +544,10 @@
                 "archived": false,
                 "id": 39487546,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:49:51Z",
+                "last_commit": "2026-08-27T16:26:21Z",
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13408
+                "stars": 13406
               }
             },
             {
@@ -559,10 +559,10 @@
                 "archived": false,
                 "id": 738929635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:52:57Z",
+                "last_commit": "2026-08-27T14:51:38Z",
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1650
+                "stars": 1652
               }
             }
           ],
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-12T17:43:42Z",
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7112
+                "stars": 7114
               }
             },
             {
@@ -768,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:05.732Z",
+    "last_updated": "2026-08-27T16:56:46.354Z",
     "original_repository_info": {
       "archived": false,
       "id": 255983676,
@@ -776,7 +776,7 @@
       "last_commit": "2026-04-10T03:18:22Z",
       "owner": "diegoleme",
       "repo": "awesome-open-source-alternatives",
-      "stars": 479
+      "stars": 480
     },
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
     "enhanced_repository": "enhansome/enhansome-open-source-alternatives",
