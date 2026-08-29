@@ -17,11 +17,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:36:17Z",
-                "open_issues": 5998,
+                "last_commit": "2026-08-29T11:13:50Z",
+                "open_issues": 6002,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77877,
+                "stars": 77875,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -353,11 +353,11 @@
                 "id": 52281283,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T04:29:02Z",
-                "open_issues": 4509,
+                "last_commit": "2026-08-29T09:43:30Z",
+                "open_issues": 4511,
                 "owner": "mastodon",
                 "repo": "mastodon",
-                "stars": 50255,
+                "stars": 50258,
                 "topics": [
                   "activity-stream",
                   "activitypub",
@@ -428,7 +428,7 @@
                 "open_issues": 392,
                 "owner": "cryptpad",
                 "repo": "cryptpad",
-                "stars": 7869,
+                "stars": 7870,
                 "topics": [
                   "chainpad",
                   "collaboration",
@@ -554,7 +554,7 @@
                 "open_issues": 365,
                 "owner": "sonatype",
                 "repo": "nexus-public",
-                "stars": 2631,
+                "stars": 2632,
                 "topics": [
                   "repository",
                   "repository-management"
@@ -649,7 +649,7 @@
                 "open_issues": 37,
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1603,
+                "stars": 1606,
                 "topics": [
                   "api",
                   "api-client",
@@ -698,7 +698,7 @@
                 "open_issues": 469,
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 30100,
+                "stars": 30109,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
@@ -748,10 +748,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-14T23:02:15Z",
-                "open_issues": 489,
+                "open_issues": 483,
                 "owner": "idurar",
                 "repo": "idurar-erp-crm",
-                "stars": 8742,
+                "stars": 8745,
                 "topics": [
                   "accounting",
                   "accounting-software",
@@ -877,11 +877,11 @@
                 "id": 1864233,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T15:05:25Z",
-                "open_issues": 1823,
+                "last_commit": "2026-08-29T11:39:31Z",
+                "open_issues": 1827,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38616,
+                "stars": 38627,
                 "topics": [
                   "accounting",
                   "asset-management",
@@ -926,7 +926,7 @@
                 "open_issues": 245,
                 "owner": "saleor",
                 "repo": "saleor",
-                "stars": 23274,
+                "stars": 23277,
                 "topics": [
                   "cart",
                   "checkout",
@@ -973,7 +973,7 @@
                 "open_issues": 3815,
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13408,
+                "stars": 13409,
                 "topics": [
                   "hacktoberfest",
                   "matrix"
@@ -997,7 +997,7 @@
                 "open_issues": 87,
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "bot-framework",
                   "chat",
@@ -1031,7 +1031,7 @@
                 "open_issues": 149,
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7121,
+                "stars": 7122,
                 "topics": [
                   "amt",
                   "file-transfer",
@@ -1170,7 +1170,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:50:28Z",
-                "open_issues": 683,
+                "open_issues": 682,
                 "owner": "Chocobozzz",
                 "repo": "PeerTube",
                 "stars": 15283,
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:25.270Z",
+    "last_updated": "2026-08-29T11:51:06.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome open-source alternative",
