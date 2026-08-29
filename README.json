@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T17:29:50Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77876
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -28,12 +37,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+                "homepage": "https://crates.io/crates/sonic-server",
                 "id": 172714919,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T15:43:58Z",
+                "open_issues": 62,
                 "owner": "valeriansaliou",
                 "repo": "sonic",
-                "stars": 21323
+                "stars": 21323,
+                "topics": [
+                  "backend",
+                  "database",
+                  "graph",
+                  "index",
+                  "infrastructure",
+                  "rust",
+                  "search",
+                  "search-engine",
+                  "search-server",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -51,12 +76,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStack Storage (Swift). Mirror of code maintained at opendev.org.",
+                "homepage": "https://opendev.org/openstack/swift",
                 "id": 790019,
                 "language": "Python",
-                "last_commit": "2026-08-28T15:52:38Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:14:20Z",
+                "open_issues": 0,
                 "owner": "openstack",
                 "repo": "swift",
-                "stars": 2795
+                "stars": 2795,
+                "topics": [
+                  "service"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -74,12 +106,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Auth0/Clerk/Firebase alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps",
+                "homepage": "https://www.authgear.com",
                 "id": 272601623,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T20:36:05Z",
+                "open_issues": 364,
                 "owner": "authgear",
                 "repo": "authgear-server",
-                "stars": 2014
+                "stars": 2014,
+                "topics": [
+                  "2fa",
+                  "auth0",
+                  "authentication",
+                  "biometric",
+                  "clerk-alternative",
+                  "firebase-alternative",
+                  "identity",
+                  "identity-provider",
+                  "keycloak",
+                  "login",
+                  "mfa",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "passkeys",
+                  "passwordless",
+                  "self-hosted",
+                  "sso",
+                  "supertokens",
+                  "webauthn"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -97,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1186301126,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-09T07:23:45Z",
+                "open_issues": 8,
                 "owner": "sortlist",
                 "repo": "overloop-cli",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -120,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1184108618,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T09:44:04Z",
+                "open_issues": 1,
                 "owner": "sortlist",
                 "repo": "max-cli",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -143,12 +211,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A free, open source, self-hosted customer feedback tool 🦊",
+                "homepage": null,
                 "id": 203002681,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-09T17:46:45Z",
+                "open_issues": 80,
                 "owner": "astuto",
                 "repo": "astuto",
-                "stars": 2349
+                "stars": 2347,
+                "topics": [
+                  "boards",
+                  "customer-feedback",
+                  "docker",
+                  "feedback",
+                  "react",
+                  "roadmap",
+                  "ruby-on-rails",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -166,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VESTA Control Panel",
+                "homepage": "http://vestacp.com",
                 "id": 1890900,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-09T08:14:41Z",
+                "open_issues": 427,
                 "owner": "outroll",
                 "repo": "vesta",
-                "stars": 3077
+                "stars": 3076,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -189,12 +276,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Disqus alternative",
+                "homepage": "https://isso-comments.de",
                 "id": 6268419,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:30:48Z",
+                "open_issues": 60,
                 "owner": "isso-comments",
                 "repo": "isso",
-                "stars": 5305
+                "stars": 5305,
+                "topics": [
+                  "commenting",
+                  "disqus",
+                  "javascript",
+                  "self-hosted",
+                  "sqlite3"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -212,12 +310,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.",
+                "homepage": "https://foxusa.github.io/OpenNote/OpenNote/",
                 "id": 13704831,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-27T20:56:07Z",
+                "open_issues": 33,
                 "owner": "JLiscom",
                 "repo": "OpenNote",
-                "stars": 1663
+                "stars": 1662,
+                "topics": [
+                  "angularjs",
+                  "couchdb",
+                  "mobile-first",
+                  "note-taking",
+                  "offline-app",
+                  "opennote",
+                  "progressive-web-app",
+                  "pwa",
+                  "pwa-apps"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -235,12 +348,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your self-hosted, globally interconnected microblogging community",
+                "homepage": "https://joinmastodon.org",
                 "id": 52281283,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T16:26:57Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:29:02Z",
+                "open_issues": 4509,
                 "owner": "mastodon",
                 "repo": "mastodon",
-                "stars": 50256
+                "stars": 50255,
+                "topics": [
+                  "activity-stream",
+                  "activitypub",
+                  "docker",
+                  "fediverse",
+                  "mastodon",
+                  "microblog",
+                  "social-network",
+                  "social-web",
+                  "webfinger"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -258,12 +386,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+                "homepage": "https://ackee.electerious.com",
                 "id": 18831920,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T10:30:14Z",
+                "open_issues": 47,
                 "owner": "electerious",
                 "repo": "Ackee",
-                "stars": 4691
+                "stars": 4691,
+                "topics": [
+                  "analytics",
+                  "google-analytics",
+                  "privacy",
+                  "website-analytics"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -281,12 +419,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collaborative office suite, end-to-end encrypted and open-source.",
+                "homepage": "https://cryptpad.org",
                 "id": 26022284,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T15:10:09Z",
+                "open_issues": 392,
                 "owner": "cryptpad",
                 "repo": "cryptpad",
-                "stars": 7870
+                "stars": 7869,
+                "topics": [
+                  "chainpad",
+                  "collaboration",
+                  "collaborative-editing",
+                  "cryptpad",
+                  "e2ee",
+                  "end-to-end-encryption",
+                  "javascript",
+                  "real-time"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -304,12 +456,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self hosted alternative to Google Photos ",
+                "homepage": null,
                 "id": 97455875,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-12-07T23:36:50Z",
+                "open_issues": 87,
                 "owner": "hooram",
                 "repo": "ownphotos",
-                "stars": 2759
+                "stars": 2759,
+                "topics": [
+                  "backend",
+                  "django",
+                  "django-rest-framework",
+                  "docker",
+                  "face-detection",
+                  "face-recognition",
+                  "gallery",
+                  "google-photos",
+                  "object-detection",
+                  "photos",
+                  "selfhosted"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -327,12 +496,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building a modern alternative to Pipedrive that is 10x more intuitive.",
+                "homepage": "https://www.customermates.com",
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:43:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:35:55Z",
+                "open_issues": 3,
                 "owner": "customermates",
                 "repo": "customermates",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "agpl",
+                  "crm",
+                  "crm-system",
+                  "customer-relationship-management",
+                  "docker",
+                  "fumadocs",
+                  "marketing",
+                  "monorepo",
+                  "n8n",
+                  "nestjs",
+                  "nextjs",
+                  "open-source",
+                  "prisma",
+                  "saas",
+                  "sales",
+                  "sales-pipeline",
+                  "self-hosted",
+                  "typescript",
+                  "web",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -350,12 +545,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sonatype Nexus Repository Open-source codebase mirror",
+                "homepage": "https://www.sonatype.com/products/repository-oss-download",
                 "id": 40029062,
                 "language": "Java",
+                "license": "EPL-1.0",
                 "last_commit": "2026-08-28T00:44:19Z",
+                "open_issues": 365,
                 "owner": "sonatype",
                 "repo": "nexus-public",
-                "stars": 2631
+                "stars": 2631,
+                "topics": [
+                  "repository",
+                  "repository-management"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -366,12 +569,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":package: Like npm, but faster - an alternative package manager for Node",
+                "homepage": "http://alexandergugel.github.io/ied",
                 "id": 40329787,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-10T06:30:18Z",
+                "open_issues": 43,
                 "owner": "alexanderGugel",
                 "repo": "ied",
-                "stars": 1990
+                "stars": 1990,
+                "topics": [
+                  "node",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -389,12 +600,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+                "homepage": "https://hoppscotch.io",
                 "id": 203587744,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:30:09Z",
+                "open_issues": 804,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80110
+                "stars": 80113,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-rest",
+                  "api-testing",
+                  "developer-tools",
+                  "graphql",
+                  "http",
+                  "http-client",
+                  "pwa",
+                  "rest",
+                  "rest-api",
+                  "spa",
+                  "testing",
+                  "testing-tools",
+                  "tools",
+                  "vue",
+                  "vuejs",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -405,12 +640,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.",
+                "homepage": "https://voiden.md",
                 "id": 980905149,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:44:03Z",
+                "open_issues": 37,
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1599
+                "stars": 1603,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "automation",
+                  "bruno-alternative",
+                  "cli",
+                  "curl-alternative",
+                  "graphql",
+                  "http-client",
+                  "insomnia-alternative",
+                  "javascript",
+                  "markdown",
+                  "offline-first",
+                  "openapi",
+                  "openapi3",
+                  "opensource",
+                  "postman-alternative",
+                  "rest-api",
+                  "scripting",
+                  "testing",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -428,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anki is a smart spaced repetition flashcard program",
+                "homepage": "https://apps.ankiweb.net",
                 "id": 7270538,
                 "language": "Rust",
-                "last_commit": "2026-08-28T14:51:18Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:12:26Z",
+                "open_issues": 469,
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 30097
+                "stars": 30100,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -444,12 +710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.",
+                "homepage": "https://revu.cards",
                 "id": 1186746932,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T18:00:32Z",
+                "open_issues": 6,
                 "owner": "JuliusBrussee",
                 "repo": "revu-swift",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "macos",
+                  "productivity",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -467,12 +742,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+                "homepage": "https://cloud.idurarapp.com",
                 "id": 304981340,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-14T23:02:15Z",
+                "open_issues": 489,
                 "owner": "idurar",
                 "repo": "idurar-erp-crm",
-                "stars": 8740
+                "stars": 8742,
+                "topics": [
+                  "accounting",
+                  "accounting-software",
+                  "crm",
+                  "crm-platform",
+                  "crm-system",
+                  "e-commerce",
+                  "ecommerce",
+                  "erp",
+                  "erp-application",
+                  "erp-software",
+                  "invoice",
+                  "invoice-software",
+                  "invoicing",
+                  "invoicing-application",
+                  "invoicing-software",
+                  "mern-project",
+                  "mern-stack",
+                  "mongoose",
+                  "open-source-crm",
+                  "open-source-erp"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -483,12 +784,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SuiteCRM - Open source CRM for the world",
+                "homepage": "https://www.suitecrm.com",
                 "id": 13044600,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-31T13:37:50Z",
+                "open_issues": 1374,
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5702
+                "stars": 5703,
+                "topics": [
+                  "accounts",
+                  "agplv3",
+                  "cases",
+                  "contacts",
+                  "contracts",
+                  "crm",
+                  "documents",
+                  "leads",
+                  "multi-currency",
+                  "multi-language-support",
+                  "opportunities",
+                  "php",
+                  "portal",
+                  "quotes",
+                  "reports",
+                  "suitecrm",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -499,12 +823,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building a modern alternative to Pipedrive that is 10x more intuitive.",
+                "homepage": "https://www.customermates.com",
                 "id": 1186103757,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:43:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:35:55Z",
+                "open_issues": 3,
                 "owner": "customermates",
                 "repo": "customermates",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "agpl",
+                  "crm",
+                  "crm-system",
+                  "customer-relationship-management",
+                  "docker",
+                  "fumadocs",
+                  "marketing",
+                  "monorepo",
+                  "n8n",
+                  "nestjs",
+                  "nextjs",
+                  "open-source",
+                  "prisma",
+                  "saas",
+                  "sales",
+                  "sales-pipeline",
+                  "self-hosted",
+                  "typescript",
+                  "web",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -522,12 +872,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+                "homepage": "https://frappe.io/erpnext",
                 "id": 1864233,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:05:25Z",
+                "open_issues": 1823,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38602
+                "stars": 38616,
+                "topics": [
+                  "accounting",
+                  "asset-management",
+                  "crm",
+                  "distribution",
+                  "erp",
+                  "erpnext",
+                  "frappe",
+                  "healthcare",
+                  "hrms",
+                  "manufacturing",
+                  "point-of-sale",
+                  "procurement",
+                  "project-management",
+                  "python",
+                  "retail",
+                  "support"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -545,12 +917,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saleor Core: the high performance, composable, headless commerce API.",
+                "homepage": "https://saleor.io",
                 "id": 8162715,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T10:59:13Z",
+                "open_issues": 245,
                 "owner": "saleor",
                 "repo": "saleor",
-                "stars": 23272
+                "stars": 23274,
+                "topics": [
+                  "cart",
+                  "checkout",
+                  "commerce",
+                  "composable",
+                  "e-commerce",
+                  "ecommerce",
+                  "graphql",
+                  "headless",
+                  "headless-commerce",
+                  "multichannel",
+                  "oms",
+                  "order-management",
+                  "payments",
+                  "pim",
+                  "python",
+                  "shop",
+                  "shopping-cart",
+                  "store"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -568,12 +964,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A glossy Matrix collaboration client for the web.",
+                "homepage": "https://element.io",
                 "id": 39487546,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:56:33Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T18:05:31Z",
+                "open_issues": 3815,
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13407
+                "stars": 13408,
+                "topics": [
+                  "hacktoberfest",
+                  "matrix"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -584,12 +988,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mezon is a new way to communicate with your team. It's faster, better organized, better for WFH.",
+                "homepage": "http://mezon.ai",
                 "id": 738929635,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-28T13:33:35Z",
+                "open_issues": 87,
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1667
+                "stars": 1667,
+                "topics": [
+                  "bot-framework",
+                  "chat",
+                  "chat-application",
+                  "communication",
+                  "community"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -607,12 +1022,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
+                "homepage": "https://meshcentral.com",
                 "id": 101663032,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:35:13Z",
+                "open_issues": 149,
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7120
+                "stars": 7121,
+                "topics": [
+                  "amt",
+                  "file-transfer",
+                  "intel-amt",
+                  "kvm",
+                  "remote-control",
+                  "remote-desktop"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -623,12 +1050,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.",
+                "homepage": null,
                 "id": 176523594,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-17T15:12:02Z",
+                "open_issues": 251,
                 "owner": "immense",
                 "repo": "Remotely",
-                "stars": 5073
+                "stars": 5073,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -639,12 +1071,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Apache Guacamole proxy daemon (guacd), C API (libguac), and protocol support.",
+                "homepage": "https://guacamole.apache.org/",
                 "id": 54452627,
                 "language": "C",
-                "last_commit": "2026-08-24T23:25:54Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:45:40Z",
+                "open_issues": 67,
                 "owner": "apache",
                 "repo": "guacamole-server",
-                "stars": 3968
+                "stars": 3968,
+                "topics": [
+                  "c",
+                  "guacamole",
+                  "java",
+                  "javascript",
+                  "network-client",
+                  "network-server"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -655,12 +1099,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native HTML4 / HTML5 Remote Desktop Protocol and SSH client",
+                "homepage": "https://myrtille-rdp.github.io/myrtille/",
                 "id": 53579345,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-07T10:01:49Z",
+                "open_issues": 77,
                 "owner": "myrtille-rdp",
                 "repo": "myrtille",
-                "stars": 1978
+                "stars": 1978,
+                "topics": [
+                  "browser",
+                  "html",
+                  "rdp",
+                  "rdp-gateway",
+                  "remote-desktop",
+                  "ssh",
+                  "ssh-gateway",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -678,12 +1136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to generate forms  for your static site",
+                "homepage": "https://supereasyforms.com",
                 "id": 185697198,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-16T19:42:04Z",
+                "open_issues": 57,
                 "owner": "super-easy-forms",
                 "repo": "super-easy-forms",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -701,12 +1164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+                "homepage": "https://joinpeertube.org/",
                 "id": 45213667,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:50:28Z",
+                "open_issues": 683,
                 "owner": "Chocobozzz",
                 "repo": "PeerTube",
-                "stars": 15281
+                "stars": 15283,
+                "topics": [
+                  "activitypub",
+                  "angular",
+                  "decentralized",
+                  "p2p",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -717,12 +1191,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization",
+                "homepage": null,
                 "id": 129958568,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-24T11:03:09Z",
+                "open_issues": 172,
                 "owner": "mayeaux",
                 "repo": "nodetube",
-                "stars": 2365
+                "stars": 2365,
+                "topics": [
+                  "alternative",
+                  "audio-streaming",
+                  "image-hosting",
+                  "livestreaming",
+                  "monetization",
+                  "video-streaming",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -740,12 +1227,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SuiteCRM - Open source CRM for the world",
+                "homepage": "https://www.suitecrm.com",
                 "id": 13044600,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-31T13:37:50Z",
+                "open_issues": 1374,
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5702
+                "stars": 5703,
+                "topics": [
+                  "accounts",
+                  "agplv3",
+                  "cases",
+                  "contacts",
+                  "contracts",
+                  "crm",
+                  "documents",
+                  "leads",
+                  "multi-currency",
+                  "multi-language-support",
+                  "opportunities",
+                  "php",
+                  "portal",
+                  "quotes",
+                  "reports",
+                  "suitecrm",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -756,12 +1266,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Powerful Laravel Help Desk and Lead Management App",
+                "homepage": "https://github.com/BadChoice/handesk",
                 "id": 99229860,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-12T14:02:25Z",
+                "open_issues": 119,
                 "owner": "BadChoice",
                 "repo": "handesk",
-                "stars": 1452
+                "stars": 1452,
+                "topics": [
+                  "lead",
+                  "php",
+                  "support",
+                  "ticket",
+                  "ticketing"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -772,12 +1293,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faveo Open source ticketing system build on Laravel framework",
+                "homepage": "https://www.faveohelpdesk.com/",
                 "id": 34716238,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-28T10:27:27Z",
+                "open_issues": 168,
                 "owner": "faveosuite",
                 "repo": "faveo-helpdesk",
-                "stars": 1251
+                "stars": 1251,
+                "topics": [
+                  "customer-support",
+                  "helpdesk",
+                  "helpdesk-ticketing",
+                  "ticketing-system"
+                ]
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             },
@@ -788,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DiamanteDesk",
+                "homepage": "http://diamantedesk.com/",
                 "id": 37066267,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-10T14:29:56Z",
+                "open_issues": 48,
                 "owner": "eltrino",
                 "repo": "diamantedesk-application",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
             }
@@ -807,15 +1343,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:47:00.036Z",
+    "last_updated": "2026-08-29T04:42:25.270Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of awesome open-source alternative",
+      "homepage": null,
       "id": 255983676,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-10T03:18:22Z",
+      "open_issues": 24,
       "owner": "diegoleme",
       "repo": "awesome-open-source-alternatives",
-      "stars": 480
+      "stars": 480,
+      "topics": [
+        "alternatives",
+        "awesome",
+        "awesome-list",
+        "lists",
+        "open-source",
+        "resources"
+      ]
     },
     "original_repository_sha": "5f0e38843c50e3c3036f9e843e5617c0860fcb9f",
     "enhanced_repository": "enhansome/enhansome-open-source-alternatives",
