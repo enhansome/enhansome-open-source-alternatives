@@ -17,11 +17,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T09:31:03Z",
-                "open_issues": 6025,
+                "last_commit": "2026-09-06T06:44:02Z",
+                "open_issues": 6041,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77892,
+                "stars": 77901,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -115,7 +115,7 @@
                 "open_issues": 367,
                 "owner": "authgear",
                 "repo": "authgear-server",
-                "stars": 2024,
+                "stars": 2028,
                 "topics": [
                   "2fa",
                   "auth0",
@@ -285,7 +285,7 @@
                 "open_issues": 61,
                 "owner": "isso-comments",
                 "repo": "isso",
-                "stars": 5305,
+                "stars": 5307,
                 "topics": [
                   "commenting",
                   "disqus",
@@ -353,11 +353,11 @@
                 "id": 52281283,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-05T04:29:51Z",
-                "open_issues": 4521,
+                "last_commit": "2026-09-06T04:30:08Z",
+                "open_issues": 4523,
                 "owner": "mastodon",
                 "repo": "mastodon",
-                "stars": 50266,
+                "stars": 50271,
                 "topics": [
                   "activity-stream",
                   "activitypub",
@@ -395,7 +395,7 @@
                 "open_issues": 48,
                 "owner": "electerious",
                 "repo": "Ackee",
-                "stars": 4692,
+                "stars": 4695,
                 "topics": [
                   "analytics",
                   "google-analytics",
@@ -428,7 +428,7 @@
                 "open_issues": 395,
                 "owner": "cryptpad",
                 "repo": "cryptpad",
-                "stars": 7882,
+                "stars": 7891,
                 "topics": [
                   "chainpad",
                   "collaboration",
@@ -501,7 +501,7 @@
                 "id": 1186103757,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T08:12:50Z",
+                "last_commit": "2026-09-05T18:09:14Z",
                 "open_issues": 5,
                 "owner": "customermates",
                 "repo": "customermates",
@@ -605,11 +605,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T14:40:50Z",
-                "open_issues": 811,
+                "last_commit": "2026-09-06T05:35:55Z",
+                "open_issues": 812,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80204,
+                "stars": 80218,
                 "topics": [
                   "api",
                   "api-client",
@@ -649,7 +649,7 @@
                 "open_issues": 37,
                 "owner": "VoidenHQ",
                 "repo": "voiden",
-                "stars": 1663,
+                "stars": 1667,
                 "topics": [
                   "api",
                   "api-client",
@@ -695,10 +695,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T01:56:32Z",
-                "open_issues": 484,
+                "open_issues": 488,
                 "owner": "ankitects",
                 "repo": "anki",
-                "stars": 30331,
+                "stars": 30350,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
@@ -719,7 +719,7 @@
                 "open_issues": 6,
                 "owner": "JuliusBrussee",
                 "repo": "revu-swift",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "macos",
                   "productivity",
@@ -751,7 +751,7 @@
                 "open_issues": 483,
                 "owner": "idurar",
                 "repo": "idurar-erp-crm",
-                "stars": 8760,
+                "stars": 8763,
                 "topics": [
                   "accounting",
                   "accounting-software",
@@ -793,7 +793,7 @@
                 "open_issues": 1374,
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5722,
+                "stars": 5725,
                 "topics": [
                   "accounts",
                   "agplv3",
@@ -828,7 +828,7 @@
                 "id": 1186103757,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T08:12:50Z",
+                "last_commit": "2026-09-05T18:09:14Z",
                 "open_issues": 5,
                 "owner": "customermates",
                 "repo": "customermates",
@@ -877,11 +877,11 @@
                 "id": 1864233,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T09:05:15Z",
-                "open_issues": 1823,
+                "last_commit": "2026-09-06T09:36:13Z",
+                "open_issues": 1828,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38900,
+                "stars": 38937,
                 "topics": [
                   "accounting",
                   "asset-management",
@@ -926,7 +926,7 @@
                 "open_issues": 249,
                 "owner": "saleor",
                 "repo": "saleor",
-                "stars": 23291,
+                "stars": 23295,
                 "topics": [
                   "cart",
                   "checkout",
@@ -970,10 +970,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-04T18:20:21Z",
-                "open_issues": 3789,
+                "open_issues": 3791,
                 "owner": "element-hq",
                 "repo": "element-web",
-                "stars": 13430,
+                "stars": 13433,
                 "topics": [
                   "hacktoberfest",
                   "matrix"
@@ -993,11 +993,11 @@
                 "id": 738929635,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-04T04:17:01Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T09:47:57Z",
+                "open_issues": 89,
                 "owner": "mezonai",
                 "repo": "mezon",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": [
                   "bot-framework",
                   "chat",
@@ -1031,7 +1031,7 @@
                 "open_issues": 149,
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7166,
+                "stars": 7173,
                 "topics": [
                   "amt",
                   "file-transfer",
@@ -1059,7 +1059,7 @@
                 "open_issues": 251,
                 "owner": "immense",
                 "repo": "Remotely",
-                "stars": 5076,
+                "stars": 5077,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:47:00.036Z"
@@ -1108,7 +1108,7 @@
                 "open_issues": 77,
                 "owner": "myrtille-rdp",
                 "repo": "myrtille",
-                "stars": 1978,
+                "stars": 1977,
                 "topics": [
                   "browser",
                   "html",
@@ -1173,7 +1173,7 @@
                 "open_issues": 691,
                 "owner": "Chocobozzz",
                 "repo": "PeerTube",
-                "stars": 15312,
+                "stars": 15314,
                 "topics": [
                   "activitypub",
                   "angular",
@@ -1236,7 +1236,7 @@
                 "open_issues": 1374,
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5722,
+                "stars": 5725,
                 "topics": [
                   "accounts",
                   "agplv3",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:32:21.449Z",
+    "last_updated": "2026-09-06T09:46:58.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome open-source alternative",
