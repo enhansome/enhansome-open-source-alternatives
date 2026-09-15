@@ -52,13 +52,13 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Algolia](https://algolia.com/)
 
-* [Elastic Search](https://github.com/elastic/elasticsearch) ⭐ 77,913 | 🐛 6,071 | 🌐 Java | 📅 2026-09-14
-* [Sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,342 | 🐛 65 | 🌐 Rust | 📅 2026-09-10
+* [Elastic Search](https://github.com/elastic/elasticsearch) ⭐ 77,919 | 🐛 6,081 | 🌐 Java | 📅 2026-09-15
+* [Sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,341 | 🐛 63 | 🌐 Rust | 📅 2026-09-15
 * [MeiliSearch](https://github.com/meilisearch)
 
 ### [Amazon S3](https://aws.amazon.com/s3/)
 
-* [SwiftStack](https://github.com/openstack/swift) ⭐ 2,799 | 🐛 0 | 🌐 Python | 📅 2026-09-14
+* [SwiftStack](https://github.com/openstack/swift) ⭐ 2,800 | 🐛 0 | 🌐 Python | 📅 2026-09-15
 * [minio](https://github.com/minio)
 * [ceph](https://github.com/ceph)
 
@@ -68,7 +68,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Auth0](https://auth0.com)
 
-* [Authgear](https://github.com/authgear/authgear-server) ⭐ 2,047 | 🐛 366 | 🌐 Go | 📅 2026-09-14
+* [Authgear](https://github.com/authgear/authgear-server) ⭐ 2,047 | 🐛 360 | 🌐 Go | 📅 2026-09-15
 * [KeyCloak](https://github.com/keycloak)
 
 ### [Apollo.io](https://www.apollo.io/) / [Outreach](https://www.outreach.io/)
@@ -92,7 +92,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Disqus](https://disqus.com/)
 
-* [Isso](https://github.com/posativ/isso) ⭐ 5,309 | 🐛 61 | 🌐 Python | 📅 2026-09-14
+* [Isso](https://github.com/posativ/isso) ⭐ 5,308 | 🐛 60 | 🌐 Python | 📅 2026-09-15
 
 ### [Evernote](https://evernote.com/)
 
@@ -101,7 +101,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Facebook](https://facebook.com)
 
-* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,299 | 🐛 4,532 | 🌐 Ruby | 📅 2026-09-14
+* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,296 | 🐛 4,536 | 🌐 Ruby | 📅 2026-09-15
 * [Okuna](https://github.com/OkunaOrg)
 * [Convo](https://github.com/hiconvo)
 
@@ -121,7 +121,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Google Analytics](https://analytics.google.com/)
 
-* [Ackee](https://github.com/electerious/Ackee) ⭐ 4,702 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-11
+* [Ackee](https://github.com/electerious/Ackee) ⭐ 4,704 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-11
 * [Matomo](https://github.com/Matomo-org)
 * [Fathom Analytics](https://github.com/usefathom)
 * [Countly](https://github.com/countly)
@@ -129,7 +129,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Google Docs](https://www.google.com/intl/en_US/docs/about/)
 
-* [CryptPad](https://github.com/xwiki-labs/cryptpad) ⭐ 7,910 | 🐛 402 | 🌐 JavaScript | 📅 2026-09-11
+* [CryptPad](https://github.com/xwiki-labs/cryptpad) ⭐ 7,911 | 🐛 402 | 🌐 JavaScript | 📅 2026-09-15
 * [ONLYOFFICE](https://github.com/ONLYOFFICE)
 * [Graphite Docs](https://github.com/Graphite-Docs)
 * [CodiMD](https://github.com/codimd)
@@ -154,7 +154,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Hubspot](https://www.hubspot.com/)
 
-* [Customermates](https://github.com/customermates/customermates) ⭐ 226 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14
+* [Customermates](https://github.com/customermates/customermates) ⭐ 227 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14
 * [Erxes](https://github.com/erxes)
 
 ### [Intercom](https://intercom.com)
@@ -168,7 +168,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Npm](https://www.npmjs.com)
 
-* [Nexus](https://github.com/sonatype/nexus-public) ⭐ 2,643 | 🐛 371 | 🌐 Java | 📅 2026-09-12
+* [Nexus](https://github.com/sonatype/nexus-public) ⭐ 2,642 | 🐛 373 | 🌐 Java | 📅 2026-09-12
 * [ied](https://github.com/alexanderGugel/ied) ⭐ 1,986 | 🐛 43 | 🌐 JavaScript | 📅 2017-01-10
 * [Verdaccio](https://github.com/verdaccio)
 
@@ -178,25 +178,25 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Postman](https://www.postman.com/)
 
-* [Postwoman](https://github.com/liyasthomas/postwoman) ⭐ 80,304 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14
-* [Voiden](https://github.com/VoidenHQ/voiden) ⭐ 1,725 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-11
+* [Postwoman](https://github.com/liyasthomas/postwoman) ⭐ 80,310 | 🐛 822 | 🌐 TypeScript | 📅 2026-09-14
+* [Voiden](https://github.com/VoidenHQ/voiden) ⭐ 1,735 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-11
 
 ### [Quizlet](https://quizlet.com/)
 
-* [Anki](https://github.com/ankitects/anki) ⭐ 30,529 | 🐛 509 | 🌐 Rust | 📅 2026-09-14
+* [Anki](https://github.com/ankitects/anki) ⭐ 30,571 | 🐛 513 | 🌐 Rust | 📅 2026-09-15
 * [Revu](https://github.com/JuliusBrussee/revu-swift) ⭐ 370 | 🐛 6 | 🌐 Swift | 📅 2026-04-12
 
 ### [Salesforce](https://salesforce.com/)
 
-* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,799 | 🐛 483 | 🌐 JavaScript | 📅 2026-08-14
-* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,742 | 🐛 1,380 | 🌐 PHP | 📅 2026-09-03
-* [Customermates](https://github.com/customermates/customermates) ⭐ 226 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14
+* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,802 | 🐛 483 | 🌐 JavaScript | 📅 2026-08-14
+* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,745 | 🐛 1,382 | 🌐 PHP | 📅 2026-09-03
+* [Customermates](https://github.com/customermates/customermates) ⭐ 227 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-14
 * [Odoo](https://github.com/odoo)
 * [Crust CRM](https://github.com/crusttech)
 
 ### [SAP](https://www.sap.com/)
 
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,204 | 🐛 1,859 | 🌐 Python | 📅 2026-09-14
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,243 | 🐛 1,854 | 🌐 Python | 📅 2026-09-15
 
 ### [Segment](https://segment.com)
 
@@ -204,7 +204,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Shopify](https://shopify.com/)
 
-* [Saleor Commerce](https://github.com/mirumee/saleor) ⭐ 23,325 | 🐛 262 | 🌐 Python | 📅 2026-09-14
+* [Saleor Commerce](https://github.com/mirumee/saleor) ⭐ 23,333 | 🐛 266 | 🌐 Python | 📅 2026-09-15
 * [Reaction Commerce](https://github.com/reactioncommerce)
 * [WooCommerce](https://github.com/woocommerce)
 * [Sylius](https://github.com/Sylius)
@@ -214,8 +214,8 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Slack](https://slack.com/)
 
-* [Riot](https://github.com/vector-im/riot-web) ⭐ 13,452 | 🐛 3,777 | 🌐 TypeScript | 📅 2026-09-14
-* [Mezon](https://github.com/mezonai/mezon) ⭐ 1,771 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-14
+* [Riot](https://github.com/vector-im/riot-web) ⭐ 13,457 | 🐛 3,777 | 🌐 TypeScript | 📅 2026-09-15
+* [Mezon](https://github.com/mezonai/mezon) ⭐ 1,774 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-15
 * [Rocket.Chat](https://github.com/RocketChat)
 * [Mattermost](https://github.com/mattermost)
 * [Zulip](https://github.com/zulip)
@@ -224,9 +224,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [TeamViewer](https://www.teamviewer.com/)
 
-* [MeshCentral](https://github.com/Ylianst/MeshCentral) ⭐ 7,221 | 🐛 155 | 🌐 HTML | 📅 2026-09-05
-* [Remotely](https://github.com/Jay-Rad/Remotely) ⭐ 5,078 | 🐛 251 | 🌐 C# | 📅 2024-12-17
-* [Apache Guacamole](https://github.com/apache/guacamole-server) ⭐ 3,985 | 🐛 69 | 🌐 C | 📅 2026-09-11
+* [MeshCentral](https://github.com/Ylianst/MeshCentral) ⭐ 7,226 | 🐛 153 | 🌐 HTML | 📅 2026-09-14
+* [Remotely](https://github.com/Jay-Rad/Remotely) ⭐ 5,079 | 🐛 251 | 🌐 C# | 📅 2024-12-17
+* [Apache Guacamole](https://github.com/apache/guacamole-server) ⭐ 3,985 | 🐛 68 | 🌐 C | 📅 2026-09-14
 * [Myrtille](https://github.com/cedrozor/myrtille) ⭐ 1,976 | 🐛 77 | 🌐 C# | 📅 2024-03-07
 
 ### [Trello](https://trello.com/)
@@ -242,7 +242,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Youtube](https://youtube.com)
 
-* [Peertube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,314 | 🐛 693 | 🌐 TypeScript | 📅 2026-09-11
+* [Peertube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,314 | 🐛 689 | 🌐 TypeScript | 📅 2026-09-15
 * [NodeTube](https://github.com/mayeaux/nodetube) ⭐ 2,364 | 🐛 172 | 🌐 JavaScript | 📅 2023-01-24
 
 ### [Zapier](https://zapier.com)
@@ -252,9 +252,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Zendesk](https://www.zendesk.com/)
 
-* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,742 | 🐛 1,380 | 🌐 PHP | 📅 2026-09-03
+* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,745 | 🐛 1,382 | 🌐 PHP | 📅 2026-09-03
 * [Handesk](https://github.com/BadChoice/handesk) ⭐ 1,452 | 🐛 119 | 🌐 PHP | 📅 2025-08-12
-* [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) ⭐ 1,253 | 🐛 165 | 🌐 PHP | 📅 2026-09-10
+* [Faveo](https://github.com/ladybirdweb/faveo-helpdesk) ⭐ 1,253 | 🐛 165 | 🌐 PHP | 📅 2026-09-15
 * [DiamanteDesk](https://github.com/eltrino/diamantedesk-application) ⭐ 123 | 🐛 41 | 🌐 PHP | 📅 2023-11-10
 * [Zammad](https://github.com/zammad)
 * [UVDesk](https://github.com/uvdesk)
@@ -271,4 +271,4 @@ Curating the best open-source alternatives for famous apps.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
