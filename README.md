@@ -152,72 +152,72 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Character.ai](https://character.ai)
 
-* [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,902 | 🐛 543 | 🌐 JavaScript | 📅 2026-11-20 - Needs a local model or an LLM API.
+* [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,939 | 🐛 539 | 🌐 JavaScript | 📅 2026-11-22 - Needs a local model or an LLM API.
 
 ### [ChatGPT](https://chatgpt.com) / [Claude](https://claude.ai)
 
-* [Ollama](https://github.com/ollama/ollama) ⭐ 187,819 | 🐛 4,709 | 🌐 Go | 📅 2026-11-21 - Run open models locally. Local models are below frontier quality and need a good GPU.
-* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 159,201 | 🐛 280 | 🌐 Svelte | 📅 2026-11-21 - Chat interface for Ollama and OpenAI-compatible APIs.
+* [Ollama](https://github.com/ollama/ollama) ⭐ 187,842 | 🐛 4,724 | 🌐 Go | 📅 2026-11-22 - Run open models locally. Local models are below frontier quality and need a good GPU.
+* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 159,257 | 🐛 281 | 🌐 Svelte | 📅 2026-11-22 - Chat interface for Ollama and OpenAI-compatible APIs.
 
 ### [Gamma](https://gamma.app)
 
-* [Presenton](https://github.com/presenton/presenton) ⭐ 11,984 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-20
+* [Presenton](https://github.com/presenton/presenton) ⭐ 11,992 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [GitHub Copilot](https://github.com/features/copilot) / [Cursor](https://cursor.com)
 
-* [Continue](https://github.com/continuedev/continue) ⭐ 36,534 | 🐛 859 | 🌐 TypeScript | 📅 2026-11-20
-* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,931 | 🐛 351 | 🌐 Rust | 📅 2026-06-30 - Self-hosted; needs a GPU for good performance.
+* [Continue](https://github.com/continuedev/continue) ⭐ 36,535 | 🐛 860 | 🌐 TypeScript | 📅 2026-11-22
+* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,928 | 🐛 355 | 🌐 Rust | 📅 2026-06-30 - Self-hosted; needs a GPU for good performance.
 
 ### [Lovable](https://lovable.dev) / [Bolt](https://bolt.new) / [v0](https://v0.dev)
 
-* [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 20,115 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21
+* [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 20,117 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21
 
 ### [NotebookLM](https://notebooklm.google)
 
-* [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,480 | 🐛 334 | 🌐 JavaScript | 📅 2026-11-21
-* [Open Notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,111 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-18
+* [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,506 | 🐛 337 | 🌐 JavaScript | 📅 2026-11-21
+* [Open Notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,129 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-18
 
 ### [Perplexity](https://perplexity.ai)
 
-* [Vane](https://github.com/ItzCrazyKns/Vane) ⭐ 38,275 | 🐛 389 | 🌐 TypeScript | 📅 2026-09-01 - Formerly Perplexica. Pair it with [SearXNG](https://github.com/searxng/searxng) ⭐ 39,754 | 🐛 208 | 🌐 Python | 📅 2026-11-21 for search.
+* [Vane](https://github.com/ItzCrazyKns/Vane) ⭐ 38,282 | 🐛 392 | 🌐 TypeScript | 📅 2026-09-01 - Formerly Perplexica. Pair it with [SearXNG](https://github.com/searxng/searxng) ⭐ 39,782 | 🐛 210 | 🌐 Python | 📅 2026-11-21 for search.
 
 ## Audio and Voice
 
 ### [ElevenLabs](https://elevenlabs.io)
 
-* [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 39,234 | 🐛 590 | 🌐 Python | 📅 2026-08-04 - Voice changer. Needs a GPU.
-* [pyVideoTrans](https://github.com/jianchang512/pyvideotrans) ⭐ 19,789 | 🐛 10 | 🌐 Python | 📅 2026-11-21 - Video dubbing and translation.
-* [F5-TTS](https://github.com/SWivid/F5-TTS) ⭐ 15,634 | 🐛 70 | 🌐 Python | 📅 2026-11-03 - Needs a GPU.
-* [Applio](https://github.com/IAHispano/Applio) ⭐ 4,048 | 🐛 31 | 🌐 Python | 📅 2026-11-19 - Voice changer. Needs a GPU.
+* [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 39,248 | 🐛 590 | 🌐 Python | 📅 2026-08-04 - Voice changer. Needs a GPU.
+* [pyVideoTrans](https://github.com/jianchang512/pyvideotrans) ⭐ 19,802 | 🐛 7 | 🌐 Python | 📅 2026-11-22 - Video dubbing and translation.
+* [F5-TTS](https://github.com/SWivid/F5-TTS) ⭐ 15,634 | 🐛 71 | 🌐 Python | 📅 2026-11-03 - Needs a GPU.
+* [Applio](https://github.com/IAHispano/Applio) ⭐ 4,057 | 🐛 31 | 🌐 Python | 📅 2026-11-19 - Voice changer. Needs a GPU.
 * [XTTS](https://github.com/idiap/coqui-ai-TTS) ⭐ 2,356 | 🐛 22 | 🌐 Python | 📅 2026-11-16 - Text to speech and voice cloning. Needs a GPU.
 
 ### [Lalal.ai](https://lalal.ai)
 
-* [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) ⭐ 27,294 | 🐛 1,585 | 🌐 Python | 📅 2026-10-06
+* [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) ⭐ 27,308 | 🐛 1,586 | 🌐 Python | 📅 2026-10-06
 
 ### [Otter.ai](https://otter.ai)
 
-* [Meetily](https://github.com/Zackriya-Solutions/meetily) ⭐ 32,938 | 🐛 419 | 🌐 Rust | 📅 2026-11-14
-* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 26,924 | 🐛 19 | 🌐 Python | 📅 2026-11-12
-* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 25,558 | 🐛 223 | 🌐 Python | 📅 2026-11-21 - Adds speaker diarization.
-* [Buzz](https://github.com/chidiwilliams/buzz) ⭐ 22,955 | 🐛 18 | 🌐 Python | 📅 2026-11-20
-* [Vibe](https://github.com/thewh1teagle/vibe) ⭐ 8,182 | 🐛 191 | 🌐 TypeScript | 📅 2026-11-21
-* [YazSes](https://github.com/MSKazemi/yazses) ⭐ 36 | 🐛 262 | 🌐 Python | 📅 2026-11-20
+* [Meetily](https://github.com/Zackriya-Solutions/meetily) ⭐ 32,962 | 🐛 419 | 🌐 Rust | 📅 2026-11-14
+* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 26,940 | 🐛 22 | 🌐 Python | 📅 2026-11-12
+* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 25,592 | 🐛 223 | 🌐 Python | 📅 2026-11-21 - Adds speaker diarization.
+* [Buzz](https://github.com/chidiwilliams/buzz) ⭐ 22,976 | 🐛 19 | 🌐 Python | 📅 2026-11-20
+* [Vibe](https://github.com/thewh1teagle/vibe) ⭐ 8,188 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-21
+* [YazSes](https://github.com/MSKazemi/yazses) ⭐ 37 | 🐛 264 | 🌐 Python | 📅 2026-11-22
 
 ### [Speechify](https://speechify.com)
 
-* [Kokoro](https://github.com/hexgrad/kokoro) ⭐ 10,284 | 🐛 226 | 🌐 JavaScript | 📅 2025-08-06
+* [Kokoro](https://github.com/hexgrad/kokoro) ⭐ 10,298 | 🐛 226 | 🌐 JavaScript | 📅 2025-08-06
 
 ### [Suno](https://suno.com)
 
-* [YuE](https://github.com/multimodal-art-projection/YuE) ⭐ 13,644 | 🐛 47 | 🌐 Python | 📅 2026-11-01 - Needs a GPU. Quality is well below Suno.
-* [ACE-Step](https://github.com/ace-step/ACE-Step) ⭐ 5,091 | 🐛 156 | 🌐 Python | 📅 2026-02-15 - Needs a GPU. Quality is well below Suno.
+* [YuE](https://github.com/multimodal-art-projection/YuE) ⭐ 13,664 | 🐛 47 | 🌐 Python | 📅 2026-11-01 - Needs a GPU. Quality is well below Suno.
+* [ACE-Step](https://github.com/ace-step/ACE-Step) ⭐ 5,096 | 🐛 156 | 🌐 Python | 📅 2026-02-15 - Needs a GPU. Quality is well below Suno.
 
 ### [Wispr Flow](https://wisprflow.ai)
 
-* [OpenWhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 11,968 | 🐛 511 | 🌐 JavaScript | 📅 2026-11-21
-* [VoiceInk](https://github.com/Beingpax/VoiceInk) ⭐ 7,175 | 🐛 174 | 🌐 Swift | 📅 2026-11-11
-* [FreeFlow](https://github.com/zachlatta/freeflow) ⭐ 3,137 | 🐛 81 | 🌐 Swift | 📅 2026-11-09
+* [OpenWhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 12,019 | 🐛 522 | 🌐 JavaScript | 📅 2026-11-22
+* [VoiceInk](https://github.com/Beingpax/VoiceInk) ⭐ 7,184 | 🐛 174 | 🌐 Swift | 📅 2026-11-11
+* [FreeFlow](https://github.com/zachlatta/freeflow) ⭐ 3,141 | 🐛 81 | 🌐 Swift | 📅 2026-11-09
 * [VoiceTypr](https://github.com/ideaplexa/voicetypr) ⭐ 748 | 🐛 11 | 🌐 Rust | 📅 2026-11-20
 * [Yap](https://github.com/FrigadeHQ/yap) ⭐ 484 | 🐛 9 | 🌐 Swift | 📅 2026-11-19
 
@@ -225,114 +225,114 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
-* [VectorCraft](https://github.com/storytold/vectorcraft) ⭐ 11,982 | 🐛 1,412 | 🌐 Rust | 📅 2026-11-21 - Early alpha.
+* [VectorCraft](https://github.com/storytold/vectorcraft) ⭐ 12,010 | 🐛 1,439 | 🌐 Rust | 📅 2026-11-22 - Early alpha.
 * [Inkscape](https://gitlab.com/inkscape/inkscape)
 
 ### [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 
-* [DesignCraft](https://github.com/storytold/designcraft) ⭐ 5,355 | 🐛 1,263 | 🌐 Rust | 📅 2026-11-21 - Early alpha.
+* [DesignCraft](https://github.com/storytold/designcraft) ⭐ 5,362 | 🐛 1,278 | 🌐 Rust | 📅 2026-11-22 - Early alpha.
 * [Scribus](https://github.com/scribusproject/scribus) ⭐ 657 | 🐛 65 | 🌐 C++ | 📅 2026-11-19
 
 ### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 
-* [LightCraft](https://github.com/storytold/lightcraft) ⭐ 16,255 | 🐛 1,938 | 🌐 Rust | 📅 2026-11-21 - Early alpha.
-* [darktable](https://github.com/darktable-org/darktable) ⭐ 13,484 | 🐛 635 | 🌐 C | 📅 2026-11-21
-* [RawTherapee](https://github.com/RawTherapee/RawTherapee) ⭐ 4,300 | 🐛 1,053 | 🌐 C++ | 📅 2026-11-09
+* [LightCraft](https://github.com/storytold/lightcraft) ⭐ 16,282 | 🐛 1,959 | 🌐 Rust | 📅 2026-11-22 - Early alpha.
+* [darktable](https://github.com/darktable-org/darktable) ⭐ 13,489 | 🐛 629 | 🌐 C | 📅 2026-11-22
+* [RawTherapee](https://github.com/RawTherapee/RawTherapee) ⭐ 4,302 | 🐛 1,055 | 🌐 C++ | 📅 2026-11-09
 * [LightTable](https://github.com/reville/lighttable-digital-darkroom) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2026-11-02
 
 ### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-* [PhotoCraft](https://github.com/storytold/photocraft) ⭐ 80,828 | 🐛 5,772 | 🌐 Rust | 📅 2026-11-21 - Early alpha. Opens and saves PSD files.
-* [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) ⭐ 10,922 | 🐛 139 | 🌐 Python | 📅 2026-11-21 - Generative fill for Krita. Needs a GPU.
+* [PhotoCraft](https://github.com/storytold/photocraft) ⭐ 80,975 | 🐛 5,829 | 🌐 Rust | 📅 2026-11-22 - Early alpha. Opens and saves PSD files.
+* [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) ⭐ 10,925 | 🐛 139 | 🌐 Python | 📅 2026-11-21 - Generative fill for Krita. Needs a GPU.
 * [GIMP](https://gitlab.gnome.org/GNOME/gimp)
 * [Krita](https://invent.kde.org/graphics/krita)
 
 ### [Canva](https://canva.com)
 
-* [Penpot](https://github.com/penpot/penpot) ⭐ 62,602 | 🐛 922 | 🌐 Clojure | 📅 2026-11-21 - Partial replacement.
+* [Penpot](https://github.com/penpot/penpot) ⭐ 62,630 | 🐛 923 | 🌐 Clojure | 📅 2026-11-22 - Partial replacement.
 
 ### [Figma](https://figma.com)
 
-* [Penpot](https://github.com/penpot/penpot) ⭐ 62,602 | 🐛 922 | 🌐 Clojure | 📅 2026-11-21
+* [Penpot](https://github.com/penpot/penpot) ⭐ 62,630 | 🐛 923 | 🌐 Clojure | 📅 2026-11-22
 
 ### [Meshy](https://meshy.ai)
 
-* [Hunyuan3D](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) ⭐ 15,511 | 🐛 255 | 🌐 Python | 📅 2025-10-28 - Text or image to 3D. Needs a GPU.
-* [TRELLIS](https://github.com/microsoft/TRELLIS) ⭐ 14,363 | 🐛 264 | 🌐 Python | 📅 2026-10-27 - Text or image to 3D. Needs a GPU.
+* [Hunyuan3D](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) ⭐ 15,520 | 🐛 255 | 🌐 Python | 📅 2025-10-28 - Text or image to 3D. Needs a GPU.
+* [TRELLIS](https://github.com/microsoft/TRELLIS) ⭐ 14,374 | 🐛 264 | 🌐 Python | 📅 2026-10-27 - Text or image to 3D. Needs a GPU.
 
 ### [Midjourney](https://midjourney.com) / [DALL·E](https://openai.com/dall-e)
 
-* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 147,929 | 🐛 5,602 | 🌐 Python | 📅 2026-11-21 - Runs Flux, SDXL and other image models. Needs a GPU.
-* [ArtCraft](https://github.com/storytold/artcraft) ⭐ 41,855 | 🐛 772 | 🌐 Rust | 📅 2026-11-20 - Hosted generation uses paid credits.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 148,085 | 🐛 5,613 | 🌐 Python | 📅 2026-11-22 - Runs Flux, SDXL and other image models. Needs a GPU.
+* [ArtCraft](https://github.com/storytold/artcraft) ⭐ 41,944 | 🐛 782 | 🌐 Rust | 📅 2026-11-20 - Hosted generation uses paid credits.
 
 ### [Remove.bg](https://remove.bg)
 
-* [rembg](https://github.com/danielgatis/rembg) ⭐ 25,606 | 🐛 2 | 🌐 Python | 📅 2026-11-06
+* [rembg](https://github.com/danielgatis/rembg) ⭐ 25,621 | 🐛 2 | 🌐 Python | 📅 2026-11-06
 
 ### [Topaz Photo AI](https://topazlabs.com)
 
-* [Upscayl](https://github.com/upscayl/upscayl) ⭐ 53,013 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-20
+* [Upscayl](https://github.com/upscayl/upscayl) ⭐ 53,054 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-20
 
 ## Video
 
 ### [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 
-* [EffectCraft](https://github.com/storytold/effectcraft) ⭐ 9,074 | 🐛 1,325 | 🌐 Rust | 📅 2026-11-21 - Early alpha.
-* [Natron](https://github.com/NatronGitHub/Natron) ⭐ 5,752 | 🐛 218 | 🌐 C++ | 📅 2026-11-21
+* [EffectCraft](https://github.com/storytold/effectcraft) ⭐ 9,114 | 🐛 1,345 | 🌐 Rust | 📅 2026-11-22 - Early alpha.
+* [Natron](https://github.com/NatronGitHub/Natron) ⭐ 5,757 | 🐛 245 | 🌐 C++ | 📅 2026-11-22
 
 ### [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 
-* [FilmCraft](https://github.com/storytold/filmcraft) ⭐ 18,752 | 🐛 2,403 | 🌐 Rust | 📅 2026-11-21 - Early alpha. Can't open .prproj files.
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,748 | 🐛 49 | 🌐 C++ | 📅 2026-11-21
+* [FilmCraft](https://github.com/storytold/filmcraft) ⭐ 18,819 | 🐛 2,398 | 🌐 Rust | 📅 2026-11-22 - Early alpha. Can't open .prproj files.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,765 | 🐛 48 | 🌐 C++ | 📅 2026-11-21
 * [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
 
 ### [Descript](https://descript.com)
 
-* [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 6,041 | 🐛 0 | 🌐 Nim | 📅 2026-11-21 - Removes silences automatically.
+* [auto-editor](https://github.com/WyattBlue/auto-editor) ⭐ 6,049 | 🐛 0 | 🌐 Nim | 📅 2026-11-22 - Removes silences automatically.
 
 ### [HeyGen](https://heygen.com) / [D-ID](https://d-id.com)
 
-* [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) ⭐ 19,541 | 🐛 293 | 🌐 Python | 📅 2026-06-01 - Needs a GPU.
-* [MuseTalk](https://github.com/TMElyralab/MuseTalk) ⭐ 7,002 | 🐛 178 | 🌐 Python | 📅 2026-11-19 - Needs a GPU.
+* [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) ⭐ 19,553 | 🐛 293 | 🌐 Python | 📅 2026-06-01 - Needs a GPU.
+* [MuseTalk](https://github.com/TMElyralab/MuseTalk) ⭐ 7,011 | 🐛 178 | 🌐 Python | 📅 2026-11-19 - Needs a GPU.
 
 ### [Opus Clip](https://www.opus.pro)
 
-* [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 9,582 | 🐛 87 | 🌐 Python | 📅 2026-11-21
-* [FunClip](https://github.com/modelscope/FunClip) ⭐ 6,613 | 🐛 19 | 🌐 Python | 📅 2026-11-01
-* [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) ⭐ 6,396 | 🐛 30 | 🌐 Python | 📅 2026-11-21
+* [OpenShorts](https://github.com/mutonby/openshorts) ⭐ 9,679 | 🐛 90 | 🌐 Python | 📅 2026-11-22
+* [FunClip](https://github.com/modelscope/FunClip) ⭐ 6,622 | 🐛 19 | 🌐 Python | 📅 2026-11-01
+* [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) ⭐ 6,455 | 🐛 30 | 🌐 Python | 📅 2026-11-21
 
 ### [Runway](https://runwayml.com) / [Kling](https://klingai.com)
 
-* [Wan](https://github.com/Wan-Video/Wan2.1) ⭐ 17,471 | 🐛 394 | 🌐 Python | 📅 2026-03-05 - Needs a GPU with a lot of VRAM.
-* [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,818 | 🐛 187 | 🌐 Python | 📅 2026-10-08 - Needs a GPU with a lot of VRAM.
-* [LTX-Video](https://github.com/Lightricks/LTX-Video) ⭐ 11,451 | 🐛 110 | 🌐 Python | 📅 2026-11-02 - Needs a GPU with a lot of VRAM.
+* [Wan](https://github.com/Wan-Video/Wan2.1) ⭐ 17,475 | 🐛 394 | 🌐 Python | 📅 2026-03-05 - Needs a GPU with a lot of VRAM.
+* [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) ⭐ 12,819 | 🐛 187 | 🌐 Python | 📅 2026-10-08 - Needs a GPU with a lot of VRAM.
+* [LTX-Video](https://github.com/Lightricks/LTX-Video) ⭐ 11,460 | 🐛 110 | 🌐 Python | 📅 2026-11-02 - Needs a GPU with a lot of VRAM.
 
 ## Documents and Writing
 
 ### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
 
-* [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 97,137 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-21
-* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 35,364 | 🐛 70 | 🌐 Python | 📅 2026-11-16
-* [PdfCraft](https://github.com/storytold/pdfcraft) ⭐ 21,380 | 🐛 3,512 | 🌐 Rust | 📅 2026-11-21 - Early alpha.
-* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 6,067 | 🐛 96 | 🌐 Python | 📅 2026-11-13
+* [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 97,208 | 🐛 462 | 🌐 TypeScript | 📅 2026-11-22
+* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 35,370 | 🐛 70 | 🌐 Python | 📅 2026-11-16
+* [PdfCraft](https://github.com/storytold/pdfcraft) ⭐ 21,441 | 🐛 3,558 | 🌐 Rust | 📅 2026-11-22 - Early alpha.
+* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 6,069 | 🐛 96 | 🌐 Python | 📅 2026-11-13
 
 ### [DeepL](https://deepl.com)
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,813 | 🐛 136 | 🌐 Python | 📅 2026-11-14
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,817 | 🐛 136 | 🌐 Python | 📅 2026-11-14
 
 ### [Grammarly](https://grammarly.com)
 
-* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,286 | 🐛 2,165 | 🌐 Java | 📅 2026-11-21
+* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,287 | 🐛 2,165 | 🌐 Java | 📅 2026-11-22
 
 ### [Marked](https://marked2app.com)
 
-* [Glim](https://github.com/glimapp/glim) ⭐ 47 | 🐛 22 | 🌐 Rust | 📅 2026-11-21 - macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
+* [Glim](https://github.com/glimapp/glim) ⭐ 47 | 🐛 20 | 🌐 Rust | 📅 2026-11-22 - macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
 
 ### [Mathpix](https://mathpix.com)
 
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,974 | 🐛 275 | 🌐 Python | 📅 2026-09-16
-* [MinerU](https://github.com/opendatalab/MinerU) ⭐ 84,094 | 🐛 12 | 🌐 Python | 📅 2026-11-20
-* [Marker](https://github.com/datalab-to/marker) ⭐ 41,010 | 🐛 84 | 🌐 Python | 📅 2026-11-20 - PDF to Markdown, including formulas.
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 93,002 | 🐛 277 | 🌐 Python | 📅 2026-09-16
+* [MinerU](https://github.com/opendatalab/MinerU) ⭐ 84,135 | 🐛 14 | 🌐 Python | 📅 2026-11-22
+* [Marker](https://github.com/datalab-to/marker) ⭐ 41,016 | 🐛 84 | 🌐 Python | 📅 2026-11-20 - PDF to Markdown, including formulas.
 
 ## Learning
 
@@ -342,7 +342,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Quizlet](https://quizlet.com)
 
-* [Anki](https://github.com/ankitects/anki) ⭐ 32,952 | 🐛 603 | 🌐 Rust | 📅 2026-11-20
+* [Anki](https://github.com/ankitects/anki) ⭐ 32,960 | 🐛 606 | 🌐 Rust | 📅 2026-11-20
 * [Revu](https://github.com/JuliusBrussee/revu-swift) ⭐ 387 | 🐛 6 | 🌐 Swift | 📅 2026-04-12
 * [Ordkort](https://github.com/silicq/ordkort) ⭐ 17 | 🐛 7 | 🌐 HTML | 📅 2026-11-19
 
@@ -350,59 +350,59 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Audible](https://audible.com)
 
-* [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 15,085 | 🐛 1,290 | 🌐 JavaScript | 📅 2026-11-19
+* [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 15,091 | 🐛 1,290 | 🌐 JavaScript | 📅 2026-11-19
 
 ### [Kindle Unlimited](https://www.amazon.com/kindle-dbs/hz/subscribe/ku)
 
-* [Calibre-Web](https://github.com/janeczku/calibre-web) ⭐ 18,586 | 🐛 436 | 🌐 Fluent | 📅 2026-11-15
-* [Kavita](https://github.com/Kareadita/Kavita) ⭐ 12,159 | 🐛 164 | 🌐 C# | 📅 2026-11-20
+* [Calibre-Web](https://github.com/janeczku/calibre-web) ⭐ 18,587 | 🐛 437 | 🌐 Fluent | 📅 2026-11-22
+* [Kavita](https://github.com/Kareadita/Kavita) ⭐ 12,163 | 🐛 163 | 🌐 C# | 📅 2026-11-22
 
 ### [Netflix](https://netflix.com)
 
-* [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 59,602 | 🐛 931 | 🌐 C# | 📅 2026-11-21 - For your own media library.
+* [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 59,623 | 🐛 944 | 🌐 C# | 📅 2026-11-21 - For your own media library.
 
 ### [Spotify](https://spotify.com)
 
-* [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 59,602 | 🐛 931 | 🌐 C# | 📅 2026-11-21 - For your own music library.
-* [Navidrome](https://github.com/navidrome/navidrome) ⭐ 24,878 | 🐛 312 | 🌐 Go | 📅 2026-11-21 - For your own music library.
+* [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 59,623 | 🐛 944 | 🌐 C# | 📅 2026-11-21 - For your own music library.
+* [Navidrome](https://github.com/navidrome/navidrome) ⭐ 24,899 | 🐛 312 | 🌐 Go | 📅 2026-11-22 - For your own music library.
 
 ### [Twitch](https://twitch.tv)
 
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,684 | 🐛 179 | 🌐 Go | 📅 2026-11-21
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,686 | 🐛 180 | 🌐 Go | 📅 2026-11-21
 
 ### [YouTube](https://youtube.com)
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,420 | 🐛 652 | 🌐 TypeScript | 📅 2026-11-20
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,422 | 🐛 654 | 🌐 TypeScript | 📅 2026-11-20
 
 ## Cloud Storage and Office
 
 ### [Google Calendar](https://calendar.google.com)
 
-* [Radicale](https://github.com/Kozea/Radicale) ⭐ 5,236 | 🐛 12 | 🌐 Python | 📅 2026-11-21 - CalDAV and CardDAV server.
+* [Radicale](https://github.com/Kozea/Radicale) ⭐ 5,239 | 🐛 14 | 🌐 Python | 📅 2026-11-21 - CalDAV and CardDAV server.
 
 ### [Google Docs](https://docs.google.com)
 
-* [CryptPad](https://github.com/cryptpad/cryptpad) ⭐ 8,092 | 🐛 373 | 🌐 JavaScript | 📅 2026-11-20
-* [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,517 | 🐛 286 | 🌐 TypeScript | 📅 2026-11-21 - Collaborative Markdown editor, successor of CodiMD.
-* [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) ⭐ 7,150 | 🐛 1,156 | 🌐 Shell | 📅 2026-11-13
-* [Collabora Online](https://github.com/CollaboraOnline/online) ⭐ 3,405 | 🐛 878 | 🌐 Shell | 📅 2026-11-13
+* [CryptPad](https://github.com/cryptpad/cryptpad) ⭐ 8,093 | 🐛 373 | 🌐 JavaScript | 📅 2026-11-20
+* [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,518 | 🐛 287 | 🌐 TypeScript | 📅 2026-11-21 - Collaborative Markdown editor, successor of CodiMD.
+* [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) ⭐ 7,152 | 🐛 1,156 | 🌐 Shell | 📅 2026-11-13
+* [Collabora Online](https://github.com/CollaboraOnline/online) ⭐ 3,405 | 🐛 878 | 🌐 Shell | 📅 2026-11-21
 
 ### [Google Drive](https://drive.google.com)
 
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,665 | 🐛 407 | 🌐 Go | 📅 2026-11-20 - File sync between devices, without a server.
-* [Nextcloud](https://github.com/nextcloud/server) ⭐ 37,589 | 🐛 4,002 | 🌐 PHP | 📅 2026-11-21
-* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,481 | 🐛 99 | 🌐 C | 📅 2026-11-11
-* [ownCloud](https://github.com/owncloud/core) ⭐ 8,851 | 🐛 148 | 🌐 PHP | 📅 2026-11-21
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,704 | 🐛 406 | 🌐 Go | 📅 2026-11-22 - File sync between devices, without a server.
+* [Nextcloud](https://github.com/nextcloud/server) ⭐ 37,601 | 🐛 4,014 | 🌐 PHP | 📅 2026-11-22
+* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,484 | 🐛 103 | 🌐 C | 📅 2026-11-11
+* [ownCloud](https://github.com/owncloud/core) ⭐ 8,851 | 🐛 147 | 🌐 PHP | 📅 2026-11-21
 
 ### [Google Maps Timeline](https://www.google.com/maps/timeline)
 
-* [Dawarich](https://github.com/Freika/dawarich) ⭐ 11,003 | 🐛 136 | 🌐 Ruby | 📅 2026-11-21
+* [Dawarich](https://github.com/Freika/dawarich) ⭐ 11,009 | 🐛 137 | 🌐 Ruby | 📅 2026-11-21
 
 ### [Google Photos](https://photos.google.com)
 
-* [Immich](https://github.com/immich-app/immich) ⭐ 119,765 | 🐛 672 | 🌐 TypeScript | 📅 2026-11-21
-* [PhotoPrism](https://github.com/photoprism/photoprism) ⭐ 40,468 | 🐛 456 | 🌐 Go | 📅 2026-11-20
-* [LibrePhotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,180 | 🐛 98 | 🌐 Python | 📅 2026-11-21 - Successor of Ownphotos.
+* [Immich](https://github.com/immich-app/immich) ⭐ 119,848 | 🐛 678 | 🌐 TypeScript | 📅 2026-11-22
+* [PhotoPrism](https://github.com/photoprism/photoprism) ⭐ 40,471 | 🐛 456 | 🌐 Go | 📅 2026-11-20
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos) ⭐ 8,183 | 🐛 108 | 🌐 Python | 📅 2026-11-22 - Successor of Ownphotos.
 
 ### [WeTransfer](https://wetransfer.com)
 
@@ -412,23 +412,23 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Asana](https://asana.com)
 
-* [Leantime](https://github.com/Leantime/leantime) ⭐ 12,129 | 🐛 272 | 🌐 PHP | 📅 2026-11-21
-* [Orbit](https://github.com/Noveum/orbit) ⭐ 83 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-19
+* [Leantime](https://github.com/Leantime/leantime) ⭐ 12,132 | 🐛 272 | 🌐 PHP | 📅 2026-11-21
+* [Orbit](https://github.com/Noveum/orbit) ⭐ 83 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Calendly](https://calendly.com)
 
-* [Cal.diy](https://github.com/calcom/cal.diy) ⭐ 50,279 | 🐛 1,643 | 🌐 TypeScript | 📅 2026-11-13 - Open-source edition of Cal.com.
+* [Cal.diy](https://github.com/calcom/cal.diy) ⭐ 50,305 | 🐛 1,650 | 🌐 TypeScript | 📅 2026-11-13 - Open-source edition of Cal.com.
 
 ### [Evernote](https://evernote.com)
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 57,275 | 🐛 688 | 🌐 TypeScript | 📅 2026-11-20 - Includes OCR for attachments.
-* [Trilium](https://github.com/TriliumNext/Trilium) ⭐ 39,042 | 🐛 566 | 🌐 TypeScript | 📅 2026-11-21
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 57,297 | 🐛 673 | 🌐 TypeScript | 📅 2026-11-22 - Includes OCR for attachments.
+* [Trilium](https://github.com/TriliumNext/Trilium) ⭐ 39,049 | 🐛 567 | 🌐 TypeScript | 📅 2026-11-22
 * [Koru](https://github.com/koruworks/mono) ⭐ 46 | 🐛 4 | 🌐 Rust | 📅 2026-11-20
 
 ### [Feedly](https://feedly.com)
 
-* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,639 | 🐛 679 | 🌐 PHP | 📅 2026-11-20
-* [Miniflux](https://github.com/miniflux/v2) ⭐ 9,957 | 🐛 293 | 🌐 Go | 📅 2026-11-19
+* [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,650 | 🐛 680 | 🌐 PHP | 📅 2026-11-22
+* [Miniflux](https://github.com/miniflux/v2) ⭐ 9,960 | 🐛 295 | 🌐 Go | 📅 2026-11-22
 
 ### [Miro](https://miro.com)
 
@@ -436,24 +436,24 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Notion](https://notion.so)
 
-* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,299 | 🐛 1,044 | 🌐 Dart | 📅 2026-11-15
-* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 76,053 | 🐛 844 | 🌐 TypeScript | 📅 2026-11-21
-* [Outline](https://github.com/outline/outline) ⭐ 41,332 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,361 | 🐛 1,048 | 🌐 Dart | 📅 2026-11-15
+* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 76,574 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-22
+* [Outline](https://github.com/outline/outline) ⭐ 41,337 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Pocket](https://getpocket.com) / [Instapaper](https://instapaper.com)
 
-* [Wallabag](https://github.com/wallabag/wallabag) ⭐ 13,071 | 🐛 741 | 🌐 PHP | 📅 2026-11-21
+* [Wallabag](https://github.com/wallabag/wallabag) ⭐ 13,072 | 🐛 742 | 🌐 PHP | 📅 2026-11-22
 * [Readeck](https://codeberg.org/readeck/readeck)
 
 ### [Todoist](https://todoist.com)
 
-* [Vikunja](https://github.com/go-vikunja/vikunja) ⭐ 6,129 | 🐛 242 | 🌐 Go | 📅 2026-11-21
+* [Vikunja](https://github.com/go-vikunja/vikunja) ⭐ 6,142 | 🐛 243 | 🌐 Go | 📅 2026-11-22
 
 ### [Trello](https://trello.com)
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,173 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-21
-* [Planka](https://github.com/plankanban/planka) ⭐ 12,699 | 🐛 374 | 🌐 JavaScript | 📅 2026-11-06
-* [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,971 | 🐛 151 | 🌐 PHP | 📅 2026-11-21
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,174 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-22
+* [Planka](https://github.com/plankanban/planka) ⭐ 12,701 | 🐛 374 | 🌐 JavaScript | 📅 2026-11-06
+* [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,972 | 🐛 151 | 🌐 PHP | 📅 2026-11-22
 * [Taiga](https://github.com/taigaio/taiga-back) ⭐ 858 | 🐛 98 | 🌐 Python | 📅 2026-11-03
 
 ### [Workona](https://workona.com) / [Toby](https://www.gettoby.com)
@@ -462,117 +462,117 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Zapier](https://zapier.com)
 
-* [n8n](https://github.com/n8n-io/n8n) ⭐ 211,580 | 🐛 1,247 | 🌐 TypeScript | 📅 2026-11-21 - Uses a fair-code license, not an OSI-approved one.
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,601 | 🐛 689 | 🌐 Ruby | 📅 2026-11-21
-* [Activepieces](https://github.com/activepieces/activepieces) ⭐ 25,665 | 🐛 992 | 🌐 TypeScript | 📅 2026-11-20
+* [n8n](https://github.com/n8n-io/n8n) ⭐ 211,776 | 🐛 1,268 | 🌐 TypeScript | 📅 2026-11-22 - Uses a fair-code license, not an OSI-approved one.
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,606 | 🐛 689 | 🌐 Ruby | 📅 2026-11-21
+* [Activepieces](https://github.com/activepieces/activepieces) ⭐ 25,679 | 🐛 996 | 🌐 TypeScript | 📅 2026-11-22
 
 ## Communication
 
 ### [Disqus](https://disqus.com)
 
-* [Remark42](https://github.com/umputun/remark42) ⭐ 5,653 | 🐛 70 | 🌐 Go | 📅 2026-11-21
+* [Remark42](https://github.com/umputun/remark42) ⭐ 5,653 | 🐛 69 | 🌐 Go | 📅 2026-11-22
 * [Isso](https://github.com/isso-comments/isso) ⭐ 5,314 | 🐛 64 | 🌐 Python | 📅 2026-10-25
 
 ### [Slack](https://slack.com)
 
-* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,511 | 🐛 4,435 | 🌐 TypeScript | 📅 2026-11-21
-* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,684 | 🐛 1,129 | 🌐 TypeScript | 📅 2026-11-21
-* [Zulip](https://github.com/zulip/zulip) ⭐ 26,282 | 🐛 2,071 | 🌐 Python | 📅 2026-11-21
-* [Element](https://github.com/element-hq/element-web) ⭐ 13,672 | 🐛 3,729 | 🌐 TypeScript | 📅 2026-11-20 - Matrix client, formerly Riot.
-* [Mezon](https://github.com/mezonai/mezon) ⭐ 2,031 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-20
-* [Wire](https://github.com/wireapp/wire-webapp) ⭐ 1,194 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-21
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,564 | 🐛 4,438 | 🌐 TypeScript | 📅 2026-11-21
+* [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,688 | 🐛 1,134 | 🌐 TypeScript | 📅 2026-11-22
+* [Zulip](https://github.com/zulip/zulip) ⭐ 26,287 | 🐛 2,074 | 🌐 Python | 📅 2026-11-22
+* [Element](https://github.com/element-hq/element-web) ⭐ 13,671 | 🐛 3,729 | 🌐 TypeScript | 📅 2026-11-21 - Matrix client, formerly Riot.
+* [Mezon](https://github.com/mezonai/mezon) ⭐ 2,031 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-22
+* [Wire](https://github.com/wireapp/wire-webapp) ⭐ 1,194 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-21
 
 ### [Zoom](https://zoom.com)
 
-* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,275 | 🐛 221 | 🌐 TypeScript | 📅 2026-11-21
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,276 | 🐛 230 | 🌐 TypeScript | 📅 2026-11-21
 
 ## Security and Networking
 
 ### [1Password](https://1password.com)
 
-* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 71,112 | 🐛 83 | 🌐 Rust | 📅 2026-11-19 - Lightweight server compatible with Bitwarden clients.
-* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 30,087 | 🐛 1,033 | 🌐 C++ | 📅 2026-11-17
-* [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,699 | 🐛 311 | 🌐 C# | 📅 2026-11-21
-* [Padloc](https://github.com/padloc/padloc) ⭐ 2,944 | 🐛 102 | 🌐 JavaScript | 📅 2026-11-18
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 71,155 | 🐛 85 | 🌐 Rust | 📅 2026-11-19 - Lightweight server compatible with Bitwarden clients.
+* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 30,098 | 🐛 1,038 | 🌐 C++ | 📅 2026-11-17
+* [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,704 | 🐛 313 | 🌐 C# | 📅 2026-11-21
+* [Padloc](https://github.com/padloc/padloc) ⭐ 2,944 | 🐛 102 | 🌐 JavaScript | 📅 2026-11-21
 * [Passwordcockpit](https://github.com/passwordcockpit/passwordcockpit) ⭐ 138 | 🐛 5 | 🌐 Dockerfile | 📅 2026-10-22
 
 ### [Auth0](https://auth0.com)
 
-* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,993 | 🐛 3,666 | 🌐 Java | 📅 2026-11-21
-* [Authentik](https://github.com/goauthentik/authentik) ⭐ 26,401 | 🐛 921 | 🌐 Python | 📅 2026-11-21
+* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,997 | 🐛 3,680 | 🌐 Java | 📅 2026-11-22
+* [Authentik](https://github.com/goauthentik/authentik) ⭐ 26,413 | 🐛 923 | 🌐 Python | 📅 2026-11-22
 * [Authgear](https://github.com/authgear/authgear-server) ⭐ 2,159 | 🐛 362 | 🌐 Go | 📅 2026-11-20
 
 ### [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) / [ngrok](https://ngrok.com)
 
-* [frp](https://github.com/fatedier/frp) ⭐ 110,695 | 🐛 47 | 🌐 Go | 📅 2026-11-10
-* [Pangolin](https://github.com/fosrl/pangolin) ⭐ 23,921 | 🐛 135 | 🌐 TypeScript | 📅 2026-11-20
-* [NSL.SH](https://github.com/Yundera/mesh-router-root) ⭐ 55 | 🐛 0 | 📅 2026-11-20
+* [frp](https://github.com/fatedier/frp) ⭐ 110,709 | 🐛 45 | 🌐 Go | 📅 2026-11-10
+* [Pangolin](https://github.com/fosrl/pangolin) ⭐ 23,934 | 🐛 135 | 🌐 TypeScript | 📅 2026-11-20
+* [NSL.SH](https://github.com/Yundera/mesh-router-root) ⭐ 56 | 🐛 0 | 📅 2026-11-20
 
 ### [HashiCorp Vault](https://www.vaultproject.io)
 
-* [OpenBao](https://github.com/openbao/openbao) ⭐ 9,123 | 🐛 383 | 🌐 Go | 📅 2026-11-20
+* [OpenBao](https://github.com/openbao/openbao) ⭐ 9,138 | 🐛 384 | 🌐 Go | 📅 2026-11-20
 
 ### [NextDNS](https://nextdns.io)
 
-* [Pi-hole](https://github.com/pi-hole/pi-hole) ⭐ 62,152 | 🐛 40 | 🌐 Shell | 📅 2026-11-21
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 38,690 | 🐛 1,279 | 🌐 TypeScript | 📅 2026-11-20
+* [Pi-hole](https://github.com/pi-hole/pi-hole) ⭐ 62,175 | 🐛 41 | 🌐 Shell | 📅 2026-11-22
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 38,725 | 🐛 1,284 | 🌐 TypeScript | 📅 2026-11-20
 
 ### [Tailscale](https://tailscale.com)
 
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 45,954 | 🐛 97 | 🌐 Go | 📅 2026-11-21
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 45,978 | 🐛 98 | 🌐 Go | 📅 2026-11-22
 
 ### [TeamViewer](https://www.teamviewer.com)
 
-* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 130,591 | 🐛 220 | 🌐 Rust | 📅 2026-11-21
-* [MeshCentral](https://github.com/Ylianst/MeshCentral) ⭐ 7,736 | 🐛 152 | 🌐 JavaScript | 📅 2026-11-20
+* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 130,734 | 🐛 219 | 🌐 Rust | 📅 2026-11-22
+* [MeshCentral](https://github.com/Ylianst/MeshCentral) ⭐ 7,741 | 🐛 151 | 🌐 JavaScript | 📅 2026-11-20
 * [Apache Guacamole](https://github.com/apache/guacamole-server) ⭐ 4,054 | 🐛 82 | 🌐 C | 📅 2026-11-03
 
 ## Developer Tools
 
 ### [Datadog](https://datadoghq.com) / [New Relic](https://newrelic.com)
 
-* [Grafana](https://github.com/grafana/grafana) ⭐ 78,023 | 🐛 3,299 | 🌐 TypeScript | 📅 2026-11-21 - Pair it with [Prometheus](https://github.com/prometheus/prometheus) ⭐ 67,745 | 🐛 1,139 | 🌐 Go | 📅 2026-11-21.
-* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,691 | 🐛 1,651 | 🌐 TypeScript | 📅 2026-11-21
+* [Grafana](https://github.com/grafana/grafana) ⭐ 78,032 | 🐛 3,304 | 🌐 TypeScript | 📅 2026-11-22 - Pair it with [Prometheus](https://github.com/prometheus/prometheus) ⭐ 67,755 | 🐛 1,145 | 🌐 Go | 📅 2026-11-21.
+* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,700 | 🐛 1,661 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Docker Hub](https://hub.docker.com)
 
-* [Harbor](https://github.com/goharbor/harbor) ⭐ 29,787 | 🐛 1,083 | 🌐 Go | 📅 2026-11-20
+* [Harbor](https://github.com/goharbor/harbor) ⭐ 29,788 | 🐛 1,083 | 🌐 Go | 📅 2026-11-20
 
 ### [GitHub](https://github.com)
 
-* [Gitea](https://github.com/go-gitea/gitea) ⭐ 59,198 | 🐛 2,186 | 🌐 Go | 📅 2026-11-21
-* [Gogs](https://github.com/gogs/gogs) ⭐ 47,963 | 🐛 799 | 🌐 Go | 📅 2026-11-21
-* [OneDev](https://github.com/theonedev/onedev) ⭐ 15,370 | 🐛 0 | 🌐 Java | 📅 2026-11-19
+* [Gitea](https://github.com/go-gitea/gitea) ⭐ 59,210 | 🐛 2,181 | 🌐 Go | 📅 2026-11-22
+* [Gogs](https://github.com/gogs/gogs) ⭐ 47,982 | 🐛 797 | 🌐 Go | 📅 2026-11-22
+* [OneDev](https://github.com/theonedev/onedev) ⭐ 15,372 | 🐛 0 | 🌐 Java | 📅 2026-11-19
 * [Forgejo](https://codeberg.org/forgejo/forgejo)
 * [GitLab CE](https://gitlab.com/gitlab-org/gitlab)
 * [Pagure](https://pagure.io/pagure)
 
 ### [GitHub Actions](https://github.com/features/actions)
 
-* [act](https://github.com/nektos/act) ⭐ 72,758 | 🐛 300 | 🌐 Go | 📅 2026-11-19 - Runs GitHub Actions locally.
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,802 | 🐛 3,621 | 🌐 Java | 📅 2026-11-21
-* [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) ⭐ 8,263 | 🐛 378 | 🌐 Go | 📅 2026-11-21
+* [act](https://github.com/nektos/act) ⭐ 72,763 | 🐛 300 | 🌐 Go | 📅 2026-11-19 - Runs GitHub Actions locally.
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,801 | 🐛 3,629 | 🌐 Java | 📅 2026-11-22
+* [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) ⭐ 8,264 | 🐛 377 | 🌐 Go | 📅 2026-11-22
 
 ### [Jira](https://www.atlassian.com/software/jira)
 
-* [Plane](https://github.com/makeplane/plane) ⭐ 62,896 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-11-20
-* [OpenProject](https://github.com/opf/openproject) ⭐ 17,611 | 🐛 335 | 🌐 Ruby | 📅 2026-11-21
-* [Redmine](https://github.com/redmine/redmine) ⭐ 6,092 | 🐛 3 | 🌐 Ruby | 📅 2026-11-21
+* [Plane](https://github.com/makeplane/plane) ⭐ 62,956 | 🐛 1,177 | 🌐 TypeScript | 📅 2026-11-20
+* [OpenProject](https://github.com/opf/openproject) ⭐ 17,631 | 🐛 341 | 🌐 Ruby | 📅 2026-11-22
+* [Redmine](https://github.com/redmine/redmine) ⭐ 6,094 | 🐛 3 | 🌐 Ruby | 📅 2026-11-22
 
 ### [Mailtrap](https://mailtrap.io)
 
-* [Mailpit](https://github.com/axllent/mailpit) ⭐ 10,996 | 🐛 1 | 🌐 Go | 📅 2026-11-19 - Email testing.
+* [Mailpit](https://github.com/axllent/mailpit) ⭐ 11,003 | 🐛 3 | 🌐 Go | 📅 2026-11-19 - Email testing.
 
 ### [Npm](https://www.npmjs.com)
 
-* [Verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 18,002 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-20
-* [Nexus](https://github.com/sonatype/nexus-public) ⭐ 2,715 | 🐛 321 | 🌐 Java | 📅 2026-11-05
+* [Verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 18,003 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-22
+* [Nexus](https://github.com/sonatype/nexus-public) ⭐ 2,717 | 🐛 323 | 🌐 Java | 📅 2026-11-05
 
 ### [Postman](https://www.postman.com)
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,863 | 🐛 918 | 🌐 TypeScript | 📅 2026-11-20 - Formerly Postwoman.
-* [Bruno](https://github.com/usebruno/bruno) ⭐ 48,494 | 🐛 1,996 | 🌐 JavaScript | 📅 2026-11-20
-* [Voiden](https://github.com/VoidenHQ/voiden) ⭐ 1,838 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-20
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,867 | 🐛 919 | 🌐 TypeScript | 📅 2026-11-20 - Formerly Postwoman.
+* [Bruno](https://github.com/usebruno/bruno) ⭐ 48,501 | 🐛 1,996 | 🌐 JavaScript | 📅 2026-11-20
+* [Voiden](https://github.com/VoidenHQ/voiden) ⭐ 1,840 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-20
 
 ### [Resend](https://resend.com)
 
@@ -580,84 +580,84 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Sentry](https://sentry.io)
 
-* [Sentry self-hosted](https://github.com/getsentry/self-hosted) ⭐ 9,654 | 🐛 143 | 🌐 Shell | 📅 2026-11-19
+* [Sentry self-hosted](https://github.com/getsentry/self-hosted) ⭐ 9,656 | 🐛 143 | 🌐 Shell | 📅 2026-11-22
 * [GlitchTip](https://gitlab.com/glitchtip/glitchtip-backend)
 
 ### [SonarCloud](https://sonarcloud.io)
 
-* [SonarQube Community](https://github.com/SonarSource/sonarqube) ⭐ 11,200 | 🐛 1 | 🌐 Java | 📅 2026-11-20
+* [SonarQube Community](https://github.com/SonarSource/sonarqube) ⭐ 11,205 | 🐛 1 | 🌐 Java | 📅 2026-11-20
 
 ### [TestRail](https://testrail.com)
 
-* [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) ⭐ 1,304 | 🐛 120 | 🌐 Python | 📅 2026-11-21
+* [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) ⭐ 1,304 | 🐛 119 | 🌐 Python | 📅 2026-11-21
 
 ### [UptimeRobot](https://uptimerobot.com)
 
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,734 | 🐛 861 | 🌐 JavaScript | 📅 2026-11-21
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,759 | 🐛 862 | 🌐 JavaScript | 📅 2026-11-22
 
 ## Hosting and Infrastructure
 
 ### [Algolia](https://algolia.com)
 
-* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,684 | 🐛 6,682 | 🌐 Java | 📅 2026-11-21
-* [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,951 | 🐛 321 | 🌐 Rust | 📅 2026-11-20
+* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,753 | 🐛 6,685 | 🌐 Java | 📅 2026-11-22
+* [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,959 | 🐛 321 | 🌐 Rust | 📅 2026-11-20
 * [Typesense](https://github.com/typesense/typesense) ⭐ 27,165 | 🐛 940 | 🌐 C++ | 📅 2026-11-20
 * [Sonic](https://github.com/valeriansaliou/sonic) ⭐ 21,389 | 🐛 51 | 🌐 Rust | 📅 2026-11-10
-* [OpenSearch](https://github.com/opensearch-project/OpenSearch) ⭐ 14,041 | 🐛 3,388 | 🌐 Java | 📅 2026-11-20
+* [OpenSearch](https://github.com/opensearch-project/OpenSearch) ⭐ 14,048 | 🐛 3,388 | 🌐 Java | 📅 2026-11-22
 
 ### [Amazon S3](https://aws.amazon.com/s3)
 
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 36,180 | 🐛 710 | 🌐 Go | 📅 2026-11-21
-* [Ceph](https://github.com/ceph/ceph) ⭐ 17,250 | 🐛 2,075 | 🌐 C++ | 📅 2026-11-21
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 36,192 | 🐛 711 | 🌐 Go | 📅 2026-11-22
+* [Ceph](https://github.com/ceph/ceph) ⭐ 17,255 | 🐛 2,091 | 🌐 C++ | 📅 2026-11-22
 * [OpenStack Swift](https://github.com/openstack/swift) ⭐ 2,804 | 🐛 0 | 🌐 Python | 📅 2026-11-20
 * [Garage](https://git.deuxfleurs.fr/Deuxfleurs/garage)
 
 ### [cPanel](https://cpanel.net)
 
-* [Webmin](https://github.com/webmin/webmin) ⭐ 6,142 | 🐛 131 | 🌐 HTML | 📅 2026-11-20
-* [HestiaCP](https://github.com/hestiacp/hestiacp) ⭐ 4,595 | 🐛 190 | 🌐 Shell | 📅 2026-11-20
+* [Webmin](https://github.com/webmin/webmin) ⭐ 6,144 | 🐛 131 | 🌐 HTML | 📅 2026-11-22
+* [HestiaCP](https://github.com/hestiacp/hestiacp) ⭐ 4,596 | 🐛 191 | 🌐 Shell | 📅 2026-11-22
 * [Vesta](https://github.com/outroll/vesta) ⭐ 3,087 | 🐛 425 | 🌐 PHP | 📅 2026-10-22
 
 ### [Firebase](https://firebase.google.com)
 
-* [Supabase](https://github.com/supabase/supabase) ⭐ 115,223 | 🐛 1,282 | 🌐 TypeScript | 📅 2026-11-21
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,471 | 🐛 739 | 🌐 TypeScript | 📅 2026-11-21
+* [Supabase](https://github.com/supabase/supabase) ⭐ 115,318 | 🐛 1,284 | 🌐 TypeScript | 📅 2026-11-22
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,565 | 🐛 740 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Heroku](https://heroku.com)
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 66,319 | 🐛 93 | 🌐 PHP | 📅 2026-11-21
-* [Dokku](https://github.com/dokku/dokku) ⭐ 32,232 | 🐛 26 | 🌐 Shell | 📅 2026-11-21
-* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,269 | 🐛 31 | 🌐 Go | 📅 2026-10-23
-* [CapRover](https://github.com/caprover/caprover) ⭐ 15,213 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-20
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 66,353 | 🐛 95 | 🌐 PHP | 📅 2026-11-21
+* [Dokku](https://github.com/dokku/dokku) ⭐ 32,232 | 🐛 25 | 🌐 Shell | 📅 2026-11-22
+* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,268 | 🐛 31 | 🌐 Go | 📅 2026-10-23
+* [CapRover](https://github.com/caprover/caprover) ⭐ 15,212 | 🐛 178 | 🌐 TypeScript | 📅 2026-11-20
 * [Tsuru](https://github.com/tsuru/tsuru) ⭐ 5,330 | 🐛 20 | 🌐 Go | 📅 2026-11-20
 * [Peon](https://github.com/Peon-sh/Peon) ⭐ 105 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-20
 
 ### [Netlify](https://netlify.com)
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 66,319 | 🐛 93 | 🌐 PHP | 📅 2026-11-21
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 66,353 | 🐛 95 | 🌐 PHP | 📅 2026-11-21
 
 ## Data and Analytics
 
 ### [Fivetran](https://www.fivetran.com)
 
-* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,426 | 🐛 2,817 | 🌐 Python | 📅 2026-11-21
-* [dlt](https://github.com/dlt-hub/dlt) ⭐ 6,115 | 🐛 496 | 🌐 Python | 📅 2026-11-20
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,049 | 🐛 38 | 🌐 Go | 📅 2026-11-21
+* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,429 | 🐛 2,819 | 🌐 Python | 📅 2026-11-22
+* [dlt](https://github.com/dlt-hub/dlt) ⭐ 6,118 | 🐛 497 | 🌐 Python | 📅 2026-11-22
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,050 | 🐛 35 | 🌐 Go | 📅 2026-11-22
 * [Meltano](https://github.com/meltano/meltano) ⭐ 2,683 | 🐛 172 | 🌐 Python | 📅 2026-11-21
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,816 | 🐛 74 | 🌐 Go | 📅 2026-11-20
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,816 | 🐛 75 | 🌐 Go | 📅 2026-11-22
 
 ### [Google Analytics](https://analytics.google.com)
 
-* [Umami](https://github.com/umami-software/umami) ⭐ 40,273 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-20
-* [Plausible](https://github.com/plausible/analytics) ⭐ 29,900 | 🐛 56 | 🌐 Elixir | 📅 2026-11-21
-* [Matomo](https://github.com/matomo-org/matomo) ⭐ 22,041 | 🐛 2,374 | 🌐 PHP | 📅 2026-11-21
-* [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,037 | 🐛 5 | 🌐 Go | 📅 2026-03-18
-* [Countly](https://github.com/Countly/countly-server) ⭐ 5,932 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-20
+* [Umami](https://github.com/umami-software/umami) ⭐ 40,290 | 🐛 146 | 🌐 TypeScript | 📅 2026-11-20
+* [Plausible](https://github.com/plausible/analytics) ⭐ 29,910 | 🐛 56 | 🌐 Elixir | 📅 2026-11-21
+* [Matomo](https://github.com/matomo-org/matomo) ⭐ 22,046 | 🐛 2,375 | 🌐 PHP | 📅 2026-11-22
+* [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,036 | 🐛 5 | 🌐 Go | 📅 2026-03-18
+* [Countly](https://github.com/Countly/countly-server) ⭐ 5,931 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-20
 * [Ackee](https://github.com/electerious/Ackee) ⭐ 4,733 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-23
 
 ### [Hotjar](https://hotjar.com) / [Mixpanel](https://mixpanel.com)
 
-* [PostHog](https://github.com/PostHog/posthog) ⭐ 40,998 | 🐛 4,457 | 🌐 Python | 📅 2026-11-21
+* [PostHog](https://github.com/PostHog/posthog) ⭐ 41,016 | 🐛 4,499 | 🌐 Python | 📅 2026-11-22
 
 ### [Segment](https://segment.com)
 
@@ -667,17 +667,17 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Apollo.io](https://www.apollo.io) / [Outreach](https://www.outreach.io)
 
-* [Warmbly](https://github.com/warmbly/warmbly) ⭐ 1,086 | 🐛 13 | 🌐 Go | 📅 2026-11-21
-* [OpenLeads](https://github.com/Samyrrrrrr990/openleads) ⭐ 74 | 🐛 1 | 🌐 Python | 📅 2026-11-20
+* [Warmbly](https://github.com/warmbly/warmbly) ⭐ 1,094 | 🐛 14 | 🌐 Go | 📅 2026-11-22
+* [OpenLeads](https://github.com/Samyrrrrrr990/openleads) ⭐ 74 | 🐛 1 | 🌐 Python | 📅 2026-11-21
 
 ### [Bitly](https://bitly.com)
 
 * [YOURLS](https://github.com/YOURLS/YOURLS) ⭐ 12,311 | 🐛 56 | 🌐 PHP | 📅 2026-11-19
-* [Shlink](https://github.com/shlinkio/shlink) ⭐ 5,437 | 🐛 19 | 🌐 PHP | 📅 2026-11-21
+* [Shlink](https://github.com/shlinkio/shlink) ⭐ 5,437 | 🐛 17 | 🌐 PHP | 📅 2026-11-22
 
 ### [Buffer](https://buffer.com) / [Hootsuite](https://www.hootsuite.com)
 
-* [OpenPost](https://github.com/getopenpost/openpost) ⭐ 940 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20
+* [OpenPost](https://github.com/getopenpost/openpost) ⭐ 948 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-21
 
 ### [Canny](https://canny.io)
 
@@ -689,46 +689,46 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Linktree](https://linktr.ee)
 
-* [LinkStack](https://github.com/LinkStackOrg/LinkStack) ⭐ 3,957 | 🐛 60 | 🌐 PHP | 📅 2026-10-26
-* [LittleLink](https://github.com/sethcottle/littlelink) ⭐ 3,134 | 🐛 4 | 🌐 HTML | 📅 2026-07-29
+* [LinkStack](https://github.com/LinkStackOrg/LinkStack) ⭐ 3,959 | 🐛 61 | 🌐 PHP | 📅 2026-10-26
+* [LittleLink](https://github.com/sethcottle/littlelink) ⭐ 3,135 | 🐛 4 | 🌐 HTML | 📅 2026-07-29
 
 ### [Mailchimp](https://mailchimp.com)
 
-* [Listmonk](https://github.com/knadh/listmonk) ⭐ 24,404 | 🐛 73 | 🌐 Go | 📅 2026-11-15
+* [Listmonk](https://github.com/knadh/listmonk) ⭐ 24,411 | 🐛 62 | 🌐 Go | 📅 2026-11-22
 
 ### [SurveyMonkey](https://surveymonkey.com)
 
-* [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) ⭐ 3,804 | 🐛 66 | 🌐 JavaScript | 📅 2026-11-21
+* [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) ⭐ 3,804 | 🐛 67 | 🌐 JavaScript | 📅 2026-11-21
 
 ### [Typeform](https://typeform.com)
 
-* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,284 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-20
+* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,287 | 🐛 140 | 🌐 TypeScript | 📅 2026-11-20
 
 ## Publishing and Social
 
 ### [Facebook](https://facebook.com)
 
-* [Mastodon](https://github.com/mastodon/mastodon) ⭐ 50,605 | 🐛 4,633 | 🌐 Ruby | 📅 2026-11-21
+* [Mastodon](https://github.com/mastodon/mastodon) ⭐ 50,680 | 🐛 4,643 | 🌐 Ruby | 📅 2026-11-22
 
 ### [Hacker News](https://news.ycombinator.com)
 
-* [Lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,687 | 🐛 124 | 🌐 Rust | 📅 2026-11-20
-* [Lobsters](https://github.com/lobsters/lobsters) ⭐ 4,860 | 🐛 222 | 🌐 Ruby | 📅 2026-11-20
-* [Kiwi News](https://github.com/attestate/kiwistand) ⭐ 71 | 🐛 35 | 🌐 JavaScript | 📅 2026-11-21
+* [Lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,688 | 🐛 122 | 🌐 Rust | 📅 2026-11-21
+* [Lobsters](https://github.com/lobsters/lobsters) ⭐ 4,859 | 🐛 222 | 🌐 Ruby | 📅 2026-11-20
+* [Kiwi News](https://github.com/attestate/kiwistand) ⭐ 71 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-22
 
 ### [Instagram](https://instagram.com)
 
-* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,151 | 🐛 114 | 🌐 PHP | 📅 2026-11-21
+* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,153 | 🐛 114 | 🌐 PHP | 📅 2026-11-21
 
 ### [Medium](https://medium.com) / [Substack](https://substack.com)
 
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,872 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-21
-* [WriteFreely](https://github.com/writefreely/writefreely) ⭐ 5,296 | 🐛 109 | 🌐 Go | 📅 2026-11-20
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,879 | 🐛 260 | 🌐 TypeScript | 📅 2026-11-22
+* [WriteFreely](https://github.com/writefreely/writefreely) ⭐ 5,297 | 🐛 109 | 🌐 Go | 📅 2026-11-20
 
 ### [WordPress.com](https://wordpress.com) / [Wix](https://wix.com)
 
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,872 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-21
-* [WordPress](https://github.com/WordPress/WordPress) ⭐ 21,549 | 🐛 3 | 🌐 PHP | 📅 2026-11-20
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,879 | 🐛 260 | 🌐 TypeScript | 📅 2026-11-22
+* [WordPress](https://github.com/WordPress/WordPress) ⭐ 21,552 | 🐛 3 | 🌐 PHP | 📅 2026-11-22
 
 ## Business
 
@@ -738,53 +738,53 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Hubspot](https://www.hubspot.com)
 
-* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,279 | 🐛 181 | 🌐 TypeScript | 📅 2026-11-21
-* [Erxes](https://github.com/erxes/erxes) ⭐ 4,112 | 🐛 1,138 | 🌐 TypeScript | 📅 2026-11-21
-* [Customermates](https://github.com/customermates/customermates) ⭐ 220 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21
+* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,319 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-22
+* [Erxes](https://github.com/erxes/erxes) ⭐ 4,113 | 🐛 1,145 | 🌐 TypeScript | 📅 2026-11-22
+* [Customermates](https://github.com/customermates/customermates) ⭐ 220 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Intercom](https://intercom.com)
 
-* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,286 | 🐛 1,631 | 🌐 Ruby | 📅 2026-11-20
+* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,329 | 🐛 1,633 | 🌐 Ruby | 📅 2026-11-20
 * [Chaskiq](https://github.com/chaskiq/chaskiq) ⭐ 3,584 | 🐛 84 | 🌐 TypeScript | 📅 2026-06-30
 
 ### [Pipedrive](https://www.pipedrive.com)
 
-* [Warpdrive](https://github.com/sneg55/warpdrive) ⭐ 909 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-21
+* [Warpdrive](https://github.com/sneg55/warpdrive) ⭐ 909 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [Salesforce](https://salesforce.com)
 
-* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,279 | 🐛 181 | 🌐 TypeScript | 📅 2026-11-21
-* [Odoo](https://github.com/odoo/odoo) ⭐ 56,000 | 🐛 11,342 | 🌐 Python | 📅 2026-11-21
-* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,963 | 🐛 483 | 🌐 JavaScript | 📅 2026-08-14
-* [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) ⭐ 5,870 | 🐛 1,380 | 🌐 PHP | 📅 2026-11-04
+* [Twenty](https://github.com/twentyhq/twenty) ⭐ 61,319 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-22
+* [Odoo](https://github.com/odoo/odoo) ⭐ 56,017 | 🐛 11,344 | 🌐 Python | 📅 2026-11-22
+* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,962 | 🐛 483 | 🌐 JavaScript | 📅 2026-08-14
+* [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) ⭐ 5,871 | 🐛 1,380 | 🌐 PHP | 📅 2026-11-04
 * [Corteza](https://github.com/cortezaproject/corteza) ⭐ 2,190 | 🐛 25 | 🌐 Go | 📅 2026-11-19 - Formerly Crust CRM.
-* [Customermates](https://github.com/customermates/customermates) ⭐ 220 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-21
+* [Customermates](https://github.com/customermates/customermates) ⭐ 220 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22
 
 ### [SAP](https://www.sap.com)
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 56,000 | 🐛 11,342 | 🌐 Python | 📅 2026-11-21
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 41,497 | 🐛 2,235 | 🌐 Python | 📅 2026-11-21
+* [Odoo](https://github.com/odoo/odoo) ⭐ 56,017 | 🐛 11,344 | 🌐 Python | 📅 2026-11-22
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 41,531 | 🐛 1,903 | 🌐 Python | 📅 2026-11-22
 
 ### [Shopify](https://shopify.com)
 
-* [Medusa](https://github.com/medusajs/medusa) ⭐ 37,350 | 🐛 107 | 🌐 TypeScript | 📅 2026-11-21
-* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,393 | 🐛 30 | 🌐 PHP | 📅 2026-11-18
-* [Saleor](https://github.com/saleor/saleor) ⭐ 23,593 | 🐛 315 | 🌐 Python | 📅 2026-11-20
-* [WooCommerce](https://github.com/woocommerce/woocommerce) ⭐ 10,606 | 🐛 1,450 | 🌐 PHP | 📅 2026-11-21
-* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,261 | 🐛 2,387 | 🌐 PHP | 📅 2026-11-20
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,576 | 🐛 247 | 🌐 PHP | 📅 2026-11-18
+* [Medusa](https://github.com/medusajs/medusa) ⭐ 37,364 | 🐛 107 | 🌐 TypeScript | 📅 2026-11-21
+* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,396 | 🐛 31 | 🌐 PHP | 📅 2026-11-18
+* [Saleor](https://github.com/saleor/saleor) ⭐ 23,594 | 🐛 315 | 🌐 Python | 📅 2026-11-20
+* [WooCommerce](https://github.com/woocommerce/woocommerce) ⭐ 10,608 | 🐛 1,454 | 🌐 PHP | 📅 2026-11-22
+* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,260 | 🐛 2,404 | 🌐 PHP | 📅 2026-11-20
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,577 | 🐛 247 | 🌐 PHP | 📅 2026-11-18
 * [Shopaholic](https://github.com/oc-shopaholic/oc-shopaholic-plugin) ⭐ 420 | 🐛 97 | 🌐 PHP | 📅 2026-10-24
 
 ### [Square POS](https://squareup.com/us/en/point-of-sale) / [Clover](https://www.clover.com)
 
-* [Open Source POS](https://github.com/opensourcepos/opensourcepos) ⭐ 4,529 | 🐛 276 | 🌐 PHP | 📅 2026-11-21
+* [Open Source POS](https://github.com/opensourcepos/opensourcepos) ⭐ 4,530 | 🐛 278 | 🌐 PHP | 📅 2026-11-22
 
 ### [Zendesk](https://www.zendesk.com)
 
 * [UVDesk](https://github.com/uvdesk/community-skeleton) ⭐ 19,651 | 🐛 84 | 🌐 CSS | 📅 2026-10-07
-* [Zammad](https://github.com/zammad/zammad) ⭐ 6,133 | 🐛 486 | 🌐 Ruby | 📅 2026-11-20
-* [FreeScout](https://github.com/freescout-help-desk/freescout) ⭐ 4,675 | 🐛 9 | 🌐 PHP | 📅 2026-11-21
-* [osTicket](https://github.com/osTicket/osTicket) ⭐ 4,011 | 🐛 1,232 | 🌐 PHP | 📅 2026-06-17
+* [Zammad](https://github.com/zammad/zammad) ⭐ 6,134 | 🐛 487 | 🌐 Ruby | 📅 2026-11-20
+* [FreeScout](https://github.com/freescout-help-desk/freescout) ⭐ 4,678 | 🐛 12 | 🌐 PHP | 📅 2026-11-22
+* [osTicket](https://github.com/osTicket/osTicket) ⭐ 4,013 | 🐛 1,232 | 🌐 PHP | 📅 2026-06-17
 * [Handesk](https://github.com/BadChoice/handesk) ⭐ 1,448 | 🐛 123 | 🌐 PHP | 📅 2025-08-12
 * [Faveo](https://github.com/faveosuite/faveo-helpdesk) ⭐ 1,256 | 🐛 129 | 🌐 PHP | 📅 2026-11-20
 * [Znuny](https://github.com/znuny/Znuny) ⭐ 614 | 🐛 142 | 🌐 Perl | 📅 2026-11-18 - Maintained fork of OTRS Community Edition.
@@ -793,33 +793,33 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Alexa](https://alexa.amazon.com) / [Google Home](https://home.google.com)
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,406 | 🐛 4,058 | 🌐 Python | 📅 2026-11-21
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,516 | 🐛 4,020 | 🌐 Python | 📅 2026-11-22
 
 ### [Flightradar24](https://www.flightradar24.com)
 
-* [Velocity](https://github.com/AndrewCTF/velocity) ⭐ 157 | 🐛 22 | 🌐 Python | 📅 2026-11-21
+* [Velocity](https://github.com/AndrewCTF/velocity) ⭐ 158 | 🐛 23 | 🌐 Python | 📅 2026-11-22
 
 ### [MyFitnessPal](https://myfitnesspal.com)
 
-* [wger](https://github.com/wger-project/wger) ⭐ 7,299 | 🐛 234 | 🌐 Python | 📅 2026-11-20
+* [wger](https://github.com/wger-project/wger) ⭐ 7,303 | 🐛 236 | 🌐 Python | 📅 2026-11-21
 
 ### [Paprika](https://www.paprikaapp.com)
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,965 | 🐛 119 | 🌐 Python | 📅 2026-11-21
-* [Tandoor](https://github.com/TandoorRecipes/recipes) ⭐ 8,745 | 🐛 425 | 🌐 HTML | 📅 2026-11-20
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,969 | 🐛 119 | 🌐 Python | 📅 2026-11-22
+* [Tandoor](https://github.com/TandoorRecipes/recipes) ⭐ 8,747 | 🐛 426 | 🌐 HTML | 📅 2026-11-20
 
 ### [Ring](https://ring.com)
 
-* [Frigate](https://github.com/blakeblackshear/frigate) ⭐ 37,802 | 🐛 84 | 🌐 Python | 📅 2026-11-20 - NVR with local object detection for your own cameras.
+* [Frigate](https://github.com/blakeblackshear/frigate) ⭐ 37,834 | 🐛 89 | 🌐 Python | 📅 2026-11-22 - NVR with local object detection for your own cameras.
 
 ### [Splitwise](https://splitwise.com)
 
-* [Spliit](https://github.com/spliit-app/spliit) ⭐ 3,080 | 🐛 243 | 🌐 TypeScript | 📅 2026-11-19
+* [Spliit](https://github.com/spliit-app/spliit) ⭐ 3,082 | 🐛 243 | 🌐 TypeScript | 📅 2026-11-19
 
 ### [YNAB](https://ynab.com)
 
-* [Actual Budget](https://github.com/actualbudget/actual) ⭐ 30,380 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-21
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 25,309 | 🐛 200 | 🌐 PHP | 📅 2026-11-21
+* [Actual Budget](https://github.com/actualbudget/actual) ⭐ 30,399 | 🐛 191 | 🌐 TypeScript | 📅 2026-11-22
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 25,313 | 🐛 198 | 🌐 PHP | 📅 2026-11-22
 
 ## Contributing
 
@@ -834,4 +834,4 @@ Pull requests are welcome. To keep the list useful:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
